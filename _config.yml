@@ -1,16 +1,16 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Doctelligence' 
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/logo2.png"
+  mobile_height: "350px"  # Increased substantially for better mobile visibility
+  mobile_width: "330px"   # Proportionally increased to match the new height
+  desktop: "images/logo/logo2.png"
+  desktop_height: "26px"  # Height remains adjusted to fit
+  desktop_width: "90px"   # Reduced significantly from 100px to control width dominance
 
-home: 
+home:
   limit_services: 6
 
 collections:
