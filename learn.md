@@ -1,29 +1,38 @@
 ---
-title: Learn
+title: Learn  
 layout: page  
-description: Learn more about Doctelligence and our mission.  
+description: Discover how Doctelligence enables secure, peer-to-peer AI and data marketplace ecosystems through decentralized infrastructure.  
 intro_image_hide_on_mobile: true  
 ---
 
-*Doctelligence* is a **protocol and network infrastructure** designed for decentralized AI and data systems. At the core of our mission is **Doctelligence**, a fully decentralized, peer-to-peer blockchain protocol that enables secure, scalable, and privacy-preserving AI training using decentralized data.
+**Doctelligence** is a **peer-to-peer protocol and network infrastructure** designed to enable decentralized AI ecosystems and **data marketplace applications**. It allows participants to securely collaborate and innovate in the AI space, while ensuring that data remains in its original location, reducing the need for data movement or sharing.
 
-The **Doctelligence protocol and network** empower both **AI developers** and **data owners**:
+At the core of Doctelligence is the ability to **train AI models securely** while leveraging **any data, anywhere**. Doctelligence creates a secure environment for collaboration across different parties and industries, allowing for model training and AI development without compromising data privacy.
 
-- **For AI Developers**: Secure, decentralized access to diverse datasets for scalable model training and innovation, free from the constraints of centralized data systems.
-- **For Data Owners**: Retain full ownership of your data, monetize it, and unlock its economic potential while ensuring compliance with global data regulations.
+### How Doctelligence Works
+
+- **For AI Developers**: Doctelligence provides secure, decentralized access to a broad range of data sources for training AI models. Through its protocol, AI developers can train models without the need to move or expose sensitive data, ensuring privacy and efficiency.
+
+- **For Data Owners**: Data owners retain **full ownership** and control over their data while being able to monetize it by contributing to the decentralized network. Doctelligence enables seamless collaboration without the need to relinquish control or expose their data.
 
 ### Key Features
 
-- **Data Ownership**  
-  Leverage decentralized data stores to ensure full control over personal and organizational data without relying on centralized intermediaries.
-  
-- **Decentralized AI**  
-  Securely train AI models on a decentralized network, using blockchain for model updates while ensuring data privacy at every step.
-  
-- **Earn Stablecoin Rewards**  
-  Earn stablecoin rewards for participating in AI training processes, providing fair compensation without intermediaries and avoiding volatile tokens.
+- **Data Ownership and Utilization**  
+  Doctelligence ensures that data remains securely **under the ownership** of its creator. By enabling secure, decentralized access to data, participants can **leverage any data, anywhere**, to train AI models without needing to transfer or compromise data privacy.
 
-The **Doctelligence network** operates independently, secured by a decentralized network of participants. It is not owned or controlled by any single entity, and all interactions within the network are transparently recorded on an immutable public blockchain. This decentralized architecture fosters openness, transparency, and collective participation, ensuring that **Doctelligence** remains a truly community-driven network.
+- **Peer-to-Peer Decentralized Network**  
+  Doctelligence operates as a **peer-to-peer infrastructure**, allowing data and models to interact directly. This eliminates the need for third-party intermediaries, ensuring that AI model updates are performed securely and efficiently across the network.
+
+- **Stablecoin Rewards for Ecosystem Participants**  
+  Doctelligence incentivizes contributions through **stablecoin rewards**. Participants — including data owners, AI developers, and other ecosystem contributors — are rewarded for their engagement, providing transparent and fair compensation without relying on volatile tokens or intermediaries.
+
+### Why Choose Doctelligence?
+
+- **No Data Movement**: Data is never moved from its original location, maintaining both **privacy** and **security**.
+  
+- **Decentralized Collaboration**: AI models are updated and trained in a **peer-to-peer network**, enabling secure and efficient collaboration across participants.
+  
+- **Fair Rewards**: **Stablecoin rewards** provide a **transparent** and **fair** compensation system for all ecosystem participants, aligning incentives and promoting continued collaboration.
 
 ### Join Us  
-Help shape the future of decentralized AI. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence).
+Be part of the future of **decentralized AI** and **data marketplace ecosystems**. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence) to learn more and get involved.
