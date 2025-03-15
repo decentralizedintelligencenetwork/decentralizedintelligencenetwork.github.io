@@ -1,16 +1,25 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "White Paper"
+    url: "/whitepaper/"
+    weight: 1
+  - name: "Roadmap"
+    url: "/roadmap/"
     weight: 2
+  - name: "Prototype"
+    url: "/prototype/"
+    weight: 3
+  - name: "GitHub"
+    url: "/github/" 
+    weight: 4
   - name: "Team"
     url: "/team/"
-    weight: 3
+    weight: 5
   - name: "About"
     url: "/about/"
-    weight: 4
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
