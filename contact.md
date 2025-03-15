@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-### Location: Universe
+### Location: Nowhere, Everywhere
