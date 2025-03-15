@@ -1,7 +1,7 @@
 ---
 title: Participate
 layout: teams
-description: Team
+description: Participate
 permalink: "/participate/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
