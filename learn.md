@@ -1,5 +1,5 @@
 ---
-title: About Us  
+title: Learn
 layout: page  
 description: Learn more about Doctelligence and our mission.  
 intro_image_hide_on_mobile: true  
