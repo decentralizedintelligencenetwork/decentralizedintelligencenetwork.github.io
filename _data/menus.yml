@@ -1,25 +1,19 @@
 main:
-  - name: "White Paper"
-    url: "/whitepaper/"
+  - name: "Learn"
+    url: "/learn/"
     weight: 1
-  - name: "Roadmap"
-    url: "/roadmap/"
+  - name: "Use"
+    url: "/use/"
     weight: 2
-  - name: "Prototype"
-    url: "/prototype/"
+  - name: "Build"
+    url: "/build/"
     weight: 3
-  - name: "GitHub"
-    url: "/github/" 
+  - name: "Participate"
+    url: "/participate/"
     weight: 4
-  - name: "Team"
-    url: "/team/"
+  - name: "Research"
+    url: "/research/"
     weight: 5
-  - name: "About"
-    url: "/about/"
-    weight: 6
-  - name: "Contact"
-    url: "/contact/"
-    weight: 7
 
 footer:
   - name: "Home"
