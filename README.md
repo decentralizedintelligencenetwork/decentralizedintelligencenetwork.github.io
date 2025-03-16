@@ -99,9 +99,3 @@ For further inquiries, feel free to reach out to us via our Contact Page.
 - The sections are designed to be informative and help potential contributors and users navigate the website's repository and project details.
 - The `Installation` section assumes that Node.js and npm/yarn are being used for local development.
 - A **Code of Conduct** and **LICENSE** file are mentioned; you may need to create those files if they don't already exist in the repository.
-
-Feel free to adjust the content and details as needed!
-
-
-
-
