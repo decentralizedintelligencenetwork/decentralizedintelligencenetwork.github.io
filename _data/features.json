@@ -1,7 +1,7 @@
 [
   {
     "title": "Data Ownership",
-    "description": "Utilize decentralized data to unlock new opportunities for AI development.",
+    "description": "Maintain full ownership of your data while enabling AI training within a secure, decentralized infrastructure.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Decentralized AI",
-    "description": "Train AI securely by sharing only model updates, ensuring privacy and scalability.",
+    "title": "Decentralized AI Infrastructure",
+    "description": "Leverage a peer-to-peer network to securely update models, enhancing privacy and scalability for AI development.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Direct Rewards",
-    "description": "Earn cryptographic rewards for AI training, without intermediaries.",
+    "description": "Earn stablecoin rewards directly within the ecosystem, incentivizing participation without intermediaries.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
