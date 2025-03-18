@@ -20,7 +20,7 @@ This roadmap is a living document, shaped and refined by the input of our commun
 - Deploy live prototypes and conduct experiments on advanced computing clusters, ensuring optimal network performance for decentralized AI. (✓)
 
 ### 💰 Grants Funding
-- Secure grants funding to support the next phase of development, ensuring alignment with our mission to build a sustainable and decentralized infrastructure. (-)
+- Secure grants funding to support the next phase of development, ensuring alignment with our mission to build a sustainable and decentralized infrastructure. (✓)
 
 ### 🌐 Strategic Ecosystem Partnerships
 - Forge key partnerships with AI & Blockchain hubs, accelerating the expansion of the decentralized ecosystem. (-)
