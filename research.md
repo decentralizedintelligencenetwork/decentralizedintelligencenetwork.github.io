@@ -7,23 +7,14 @@ intro_image_hide_on_mobile: true
 
 **Doctelligence** is pioneering research in decentralized AI, data privacy, and blockchain technologies to create secure, efficient ecosystems for AI development and data collaboration. Our research focuses on advancing privacy, data sovereignty, and decentralized networks to empower AI developers, data owners, and ecosystem participants.
 
-#### 1. **Decentralized AI & Federated Learning**
-- **Federated Learning (FL)**: Train AI models without moving data, ensuring privacy and security.
-- **Innovative AI Models**: Decentralized training leads to more diverse and robust AI models.
+#### 1. **Enabling Federated Learning in Decentralized Data Ecosystems**
+- **Protocol Design for Federated Learning**: Our research focuses on developing protocols that enable seamless Federated Learning (FL) processes within decentralized data ecosystems, supporting privacy-preserving collaboration while ensuring scalability and efficiency in model training.
 
 #### 2. **Data Privacy & Security**
-- **Privacy-Preserving AI**: Train models without compromising data privacy.
-- **Secure Data Sharing**: Enable secure, decentralized sharing while retaining control over data.
-- **Blockchain for Security**: Use encryption and blockchain to protect data and AI models.
+- **Privacy-Preserving AI**: We investigate methods for training AI models without compromising data privacy, ensuring that data can be securely shared within decentralized ecosystems while maintaining control over it.
 
-#### 3. **Blockchain & Distributed Ledger Technologies**
-- **Decentralized Validation**: Distributed validators ensure ecosystem security without centralized authorities.
-- **Smart Contracts**: Automate processes like rewards, data access, and governance.
-- **Stablecoin Incentives**: Use tokenization to incentivize ecosystem participation.
-
-#### 4. **AI & Data Marketplaces**
-- **Decentralized Marketplaces**: Build secure data and AI marketplaces on Doctelligence’s infrastructure.
-- **Fair Economic Incentives**: Reward data owners, developers, and validators with **stablecoin rewards**.
+#### 3. **Blockchain & Incentives**
+- **Blockchain for Security and Rewards**: We explore how blockchain and smart contracts can secure decentralized ecosystems and automate processes like data access, rewards distribution, and governance, fostering fair and sustainable participation through stablecoin incentives.
 
 ### Our Collaborations
 
