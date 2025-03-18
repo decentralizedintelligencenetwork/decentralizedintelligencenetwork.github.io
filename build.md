@@ -7,8 +7,6 @@ intro_image_hide_on_mobile: true
 
 **Doctelligence** provides the infrastructure you need to build decentralized AI applications and data marketplaces. By leveraging our **peer-to-peer network** and **decentralized validators**, you can create powerful, secure, and scalable solutions that drive innovation in AI and data ecosystems. Whether you’re building an AI model, creating a data marketplace, or launching an application, Doctelligence offers the tools you need to succeed.
 
-### How to Build with Doctelligence
-
 #### Build Decentralized AI Applications:
 With Doctelligence, you can build AI applications that are both decentralized and secure. Here’s how:
 
