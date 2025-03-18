@@ -7,8 +7,6 @@ intro_image_hide_on_mobile: true
 
 **Doctelligence** provides a powerful infrastructure for building decentralized AI and data applications. With its **peer-to-peer protocol** and **secure network**, Doctelligence enables **secure collaboration** and **AI model training** without moving data. Whether you’re an AI developer, data owner, or ecosystem builder, Doctelligence helps unlock new possibilities in decentralized AI.
 
-## How to Use Doctelligence
-
 #### For AI Developers:
 - **Access Decentralized Data**: Connect to data sources without exposing sensitive information.
 - **Train AI Models Securely**: Use the decentralized network to train models while keeping data private.
