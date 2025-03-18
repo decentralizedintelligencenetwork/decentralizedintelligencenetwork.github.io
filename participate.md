@@ -10,16 +10,13 @@ intro_image_hide_on_mobile: true
 ### Key Ways to Participate
 
 #### 1. **Integrate Decentralized AI & Data Marketplace Capabilities**
-- **Plug into Our Infrastructure**: Easily integrate Doctelligence’s decentralized protocol for secure AI training and data exchange without moving sensitive data.
+- **Plug into Our Infrastructure**: Easily integrate Doctelligence’s decentralized protocol for secure AI training on data without moving sensitive data.
   
 #### 2. **Build Decentralized Applications**
 - **Leverage Peer-to-Peer Network**: Build scalable applications powered by our decentralized network, ensuring security and privacy.
 
 #### 3. **Contribute to the Core Ecosystem**
 - **Help Shape the Future**: Contribute to Doctelligence’s core infrastructure and governance. [Join us on GitHub](https://github.com/Doctelligence) to collaborate and build.
-  
-#### 4. **Earn Rewards for Your Contributions**
-- **Stablecoin Incentives**: Participants, including developers and validators, earn **stablecoin rewards** for their contributions, ensuring fair compensation and continued growth.
 
 ### Why Choose Doctelligence?
 
