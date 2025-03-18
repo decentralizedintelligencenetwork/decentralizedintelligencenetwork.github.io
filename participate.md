@@ -7,8 +7,6 @@ intro_image_hide_on_mobile: true
 
 **Doctelligence** provides a decentralized, peer-to-peer network for seamless integration with AI and data applications. Whether you're developing AI models or managing data marketplaces, our infrastructure ensures privacy, scalability, and secure collaboration without data movement.
 
-### Key Ways to Participate
-
 #### 1. **Integrate Decentralized AI & Data Marketplace Capabilities**
 - **Plug into Our Infrastructure**: Easily integrate Doctelligence’s decentralized protocol for secure AI training on data without moving sensitive data.
   
