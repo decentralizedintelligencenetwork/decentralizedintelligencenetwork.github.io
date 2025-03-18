@@ -10,7 +10,7 @@
   },
   {
     "title": "Decentralized AI",
-    "description": "Provides the infrastructure for secure, scalable federated learning (FL) model updates through a peer-to-peer network.",
+    "description": "Transforms infrastructure using a lightweight protocol into a secure, scalable, trustless peer-to-peer federated learning (FL) network for model updates.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
