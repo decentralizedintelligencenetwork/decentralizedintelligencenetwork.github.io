@@ -7,8 +7,6 @@ intro_image_hide_on_mobile: true
 
 **Doctelligence** is pioneering research in decentralized AI, data privacy, and blockchain technologies to create secure, efficient ecosystems for AI development and data collaboration. Our research focuses on advancing privacy, data sovereignty, and decentralized networks to empower AI developers, data owners, and ecosystem participants.
 
-### Key Research Areas
-
 #### 1. **Decentralized AI & Federated Learning**
 - **Federated Learning (FL)**: Train AI models without moving data, ensuring privacy and security.
 - **Innovative AI Models**: Decentralized training leads to more diverse and robust AI models.
