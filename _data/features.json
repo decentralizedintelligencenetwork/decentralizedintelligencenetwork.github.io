@@ -1,7 +1,7 @@
 [
   {
     "title": "Data Ownership",
-    "description": "Maintain full ownership of your data while enabling AI training within a secure, decentralized infrastructure.",
+    "description": "Enables data ecosystems to maintain full control over their data within a secure, decentralized infrastructure.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Decentralized Infrastructure",
-    "description": "Leverage a peer-to-peer network to securely update models, enhancing privacy and scalability for AI development.",
+    "title": "Decentralized AI",
+    "description": "Provides the infrastructure for secure, scalable federated learning (FL) model updates through a peer-to-peer network.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Direct Rewards",
-    "description": "Monetize data ecosystem peer-peer within the ecosystem, incentivizing participation without intermediaries.",
+    "description": "Supports peer-to-peer data monetization within ecosystems, removing intermediaries and allowing direct rewards.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
