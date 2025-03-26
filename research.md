@@ -1,33 +1,35 @@
 ---
 title: Research  
 layout: page  
-description: Explore how decentralized AI and data ecosystems are transforming industries through Doctelligence’s research.  
+description: Explore how Doctelligence is enhancing healthcare with decentralized health AI and secure data management.  
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** is pioneering research in decentralized AI, data privacy, and blockchain technologies to create secure, efficient ecosystems for AI development and data collaboration. Our research focuses on advancing privacy, data sovereignty, and decentralized networks to empower AI developers, data owners, and ecosystem participants.
+**Doctelligence** is focused on advancing decentralized healthcare by empowering individuals with full control over their **personal health records (PHRs)**. By leveraging a **peer-to-peer network** and **AI protocols**, we are creating a system that enhances healthcare delivery while maintaining data privacy and security.
 
-#### 1. **Enabling Federated Learning in Decentralized Data Ecosystems**
-- **Protocol Design for Federated Learning**: Our research focuses on developing protocols that enable seamless Federated Learning (FL) processes within decentralized data ecosystems, supporting privacy-preserving collaboration while ensuring scalability and efficiency in model training.
+### Key Areas of Research
 
-#### 2. **Data Privacy & Security**
-- **Privacy-Preserving AI**: We investigate methods for training AI models without compromising data privacy, ensuring that data can be securely shared within decentralized ecosystems while maintaining control over it.
+1. **Personal Health Data Control & Integrated Healthcare Services**  
+   - Researching methods to give individuals full control over their health records, enabling seamless integration of health data into healthcare services while preserving privacy and security. This approach allows for better coordination of care across different providers.
 
-#### 3. **Blockchain & Incentives**
-- **Blockchain for Security and Rewards**: We explore how blockchain and smart contracts can secure decentralized ecosystems and automate processes like data access, rewards distribution, and governance, fostering fair and sustainable participation through stablecoin incentives.
+2. **Federated Learning for Healthcare AI**  
+   - Investigating how federated learning (FL) can be applied to healthcare AI, enabling the training of AI models directly on encrypted health data across the network. This allows for advanced AI-driven insights without compromising patient privacy.
 
-### Our Collaborations
-
-Doctelligence collaborates with leading research institutions and universities to advance decentralized AI and data privacy. We share findings through open-source contributions, publications, and events, contributing to the research community’s growth.
+3. **Decentralized Insurance & Reward Systems**  
+   - Exploring how blockchain technology and decentralized networks can support **health insurance** models, where individuals can participate in and contribute to decentralized health insurance systems, while earning **stablecoin rewards** for their data contributions.
 
 ### Get Involved
 
-- **Collaborate with Us**: Researchers, institutions, and academics can [contact us](https://doctelligence.github.io/contact/) to explore partnership opportunities.
-- **Explore Our Research**: Check out our [GitHub](https://github.com/Doctelligence) for research papers and publications.
-- **Join Our Events**: Participate in our conferences, workshops, and webinars focused on decentralized AI.
+- **Collaborate with Us**: [Contact us](https://doctelligence.github.io/contact/) to discuss partnership opportunities.
+- **Explore Our Research**: Visit our [GitHub](https://github.com/Doctelligence) for research papers and publications.
+- **Join Our Events**: Participate in our webinars, workshops, and discussions on decentralized health AI.
 
-### The Future of Decentralized AI
+### Shaping the Future of Healthcare
 
-Our research is shaping a future where AI and data ecosystems are transparent, secure, and inclusive. Join us in building a decentralized, collaborative AI landscape that empowers data owners and AI developers.
+At Doctelligence, we are building a healthcare ecosystem where individuals control their health data, collaborate securely, and contribute to decentralized healthcare solutions. Through our peer-to-peer network, we aim to improve healthcare delivery and enhance
 
-[Join Us](https://doctelligence.github.io/contact/) and help us create a more open, secure, and efficient AI ecosystem.
+### Shaping the Future of Healthcare
+
+At Doctelligence, we are creating a decentralized healthcare ecosystem where individuals can control their personal health data, participate in AI-driven insights, and contribute to decentralized health solutions. Our peer-to-peer network is designed to improve healthcare delivery while maintaining privacy, security, and access for everyone.
+
+[Join Us](https://doctelligence.github.io/contact/) and help us build a more secure, efficient, and inclusive healthcare system.
