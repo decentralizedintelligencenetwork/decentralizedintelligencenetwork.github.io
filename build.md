@@ -1,36 +1,20 @@
 ---
 title: Build  
 layout: page  
-description: Build decentralized AI applications and data marketplaces with Doctelligence’s infrastructure.  
+description: Build decentralized healthcare AI applications and data solutions with Doctelligence’s infrastructure.  
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** offers tools to create secure, scalable decentralized AI applications and data marketplaces.
+**Doctelligence** provides the tools to create **decentralized healthcare AI applications** and **secure data solutions** that prioritize privacy and data sovereignty.
 
-### Build Decentralized AI:
-- **Leverage Decentralized Data**: Securely integrate data while maintaining privacy.
-- **Train AI Models**: Use a peer-to-peer network for model training.
-- **Scale**: Build scalable solutions without compromising performance.
-
-### Create Data Marketplaces:
-- **Monetize Data**: Enable secure data exchange with incentives.
-- **No Data Movement**: Keep data in its original location during AI training.
-- **Collaboration**: Build systems for secure collaboration without intermediaries.
+### Build Decentralized Healthcare AI:
+- **Leverage Personal Health Records (PHRs)**: Securely access and integrate health data while maintaining patient privacy.
+- **Federated Learning for AI Training**: Use a decentralized network for collaborative AI model training without exposing sensitive data.
+- **Scalable Solutions**: Build AI-driven healthcare applications that scale without compromising security or privacy.
 
 ### Key Benefits:
-- **Scalability**: Efficiently scale decentralized solutions.
-- **Security**: Maintain privacy with decentralized architecture.
-- **Flexibility**: Create diverse decentralized solutions.
+- **Privacy & Security**: Protect personal health data with decentralized architecture, ensuring patient confidentiality.
+- **Scalability**: Build and scale healthcare applications that are efficient and secure.
+- **Flexibility**: Create customized decentralized healthcare solutions that suit diverse needs, from patient care to decentralized insurance.
 
-### Tools and Resources:
-- **[Documentation](https://doctelligence.github.io/docs)**: Integrate Doctelligence into your projects.
-- **[API Access](https://doctelligence.github.io/docs/api)**: Use our APIs for integration.
-- **[Community](https://discord.com/invite/doctelligence)**: Join our Discord for support.
-
-### Get Started:
-1. **Review Documentation**: Learn to leverage Doctelligence in your projects.
-2. **Explore Open Source**: Visit our [GitHub](https://github.com/Doctelligence).
-3. **Contribute**: Help build decentralized AI solutions.
-
-### Build the Future of Decentralized AI  
 [Start Building Today](https://doctelligence.github.io/contact/).
