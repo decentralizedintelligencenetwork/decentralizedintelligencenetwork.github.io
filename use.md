@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 ### Key Benefits:
 - **Privacy-Preserving**: Health data stays secure and private, with no need to move it for training or collaboration.
-- **Decentralized Network**: Built on a peer-to-peer protocol, ensuring scalability, security, and trust.
+- **Decentralized Network**: Built on a peer-to-peer FL protocol, ensuring scalability, security, and trust.
 - **Fair Compensation**: Earn high-frequency **stablecoins** for contributing data or resources, funding decentralized health insurance.
 
 Transform healthcare with the power of decentralized health AI. [Get started today](https://doctelligence.github.io)!
