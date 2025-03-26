@@ -5,15 +5,23 @@ description: Discover how Doctelligence enables secure, decentralized AI model t
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** is a **peer-to-peer protocol** that enables **decentralized health AI ecosystems**. It allows **healthcare professionals** and **AI developers** to securely collaborate on improving healthcare services while ensuring privacy and data control.
+**Doctelligence** empowers **healthcare professionals** to improve healthcare services by giving them control over **Personal Health Records (PHRs)**, which are securely stored and maintained in a decentralized ecosystem. With **Doctelligence**, healthcare delivery becomes more efficient, patient-centric, and privacy-focused, providing the foundation for trusted, transparent care.
 
-At its core, **Doctelligence** allows **AI developers** to train models using **personal health records (PHRs)** through **federated learning (FL)**, without exposing sensitive patient data. **Healthcare professionals** can leverage these models to enhance patient care, improve business practices, and provide innovative healthcare solutions while maintaining control over their patient data.
+At its core, **Doctelligence** integrates **AI model training** through **federated learning (FL)**, allowing **AI developers** to train models using **encrypted health data** without exposing sensitive information. This collaboration leads to enhanced healthcare outcomes through innovative AI solutions, all while ensuring full control over data privacy.
 
 ### How It Works
 
-- **For AI Developers**: **Doctelligence** offers secure access to health data from **personal health records (PHRs)** for decentralized AI model training. Developers can collaborate using federated learning to create AI models for healthcare applications, all while ensuring data privacy and security.
+- **For Healthcare Professionals**: Improve your practice by leveraging AI models trained on real patient data. Doctelligence lets you manage healthcare solutions for your patients within a **secure, decentralized network**, supporting better care and contributing to **decentralized health insurance**. Plus, earn **stablecoin rewards** for your contributions.
 
-- **For Healthcare Professionals**: Use **Doctelligence** to improve healthcare delivery by adopting AI solutions that are built on real patient data. You can also manage healthcare solutions for your community through the secure, peer-to-peer network, contributing to decentralized health insurance and earning rewards.
+- **For AI Developers**: Gain secure access to **personal health records (PHRs)** to collaborate and build advanced AI models for healthcare. **Doctelligence** ensures that AI training respects privacy, as the data never leaves its original location and is processed through federated learning.
+
+### Key Benefits
+
+- **Patient Data Ownership**: Patients maintain control over their personal health data, enabling better privacy and security in healthcare practices.
+
+- **AI-Driven Healthcare Solutions**: AI models built on secure health data can optimize treatment options, improve decision-making, and foster innovation in healthcare delivery.
+
+- **Earn Rewards**: Both healthcare professionals and AI developers earn **stablecoin rewards** for contributing to the ecosystem, encouraging sustainable participation and investment.
 
 ### Join Us  
-Be a part of the future of **decentralized health AI**. **Doctelligence** empowers healthcare professionals and AI developers to collaborate on innovative healthcare solutions that improve patient care while maintaining privacy and data control. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence) to get involved.
+Be part of the future of **decentralized health AI**. **Doctelligence** is transforming healthcare through secure, AI-powered solutions while ensuring data privacy and control. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence) to get involved.
