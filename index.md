@@ -7,4 +7,4 @@ show_call_box: true
 ---
 
 # Doctelligence
-Decentralized Health, Powered by AI
+A Decentralized Intelligence Health Network
