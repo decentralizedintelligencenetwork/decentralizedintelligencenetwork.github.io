@@ -7,4 +7,4 @@ show_call_box: true
 ---
 
 # Doctelligence
-Decentralized Intelligence Health Network
+Decentralized Health Intelligence Network
