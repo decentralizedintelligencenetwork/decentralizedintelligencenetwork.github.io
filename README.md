@@ -11,36 +11,6 @@ Welcome to the **Doctelligence** project! This repository hosts the official web
 - [Installation](#installation)
 - [License](#license)
 
-## About Doctelligence
-
-**Doctelligence** is a decentralized, peer-to-peer protocol designed to enable AI and data marketplace ecosystems. It allows parties to securely train AI models and interact with data while ensuring data remains where it originates — without transferring or exposing it. This infrastructure promotes decentralized AI innovation and the efficient monetization of data, while prioritizing privacy and security.
-
-Doctelligence utilizes a decentralized network of validators to maintain security, trust, and transparency. It's designed to provide decentralized AI applications with scalable, robust infrastructure and offers stablecoin rewards for ecosystem participants.
-
-## Features
-
-### 1. **Data Ownership & Utilization**
-Doctelligence ensures that data remains securely under the ownership of its creator. Data can be leveraged for training AI models in a decentralized, privacy-preserving way — without ever moving the data.
-
-### 2. **Peer-to-Peer Decentralized Network**
-The Doctelligence protocol allows applications and ecosystems to interact directly with data and AI models via a peer-to-peer network. This removes the need for intermediaries, ensuring secure, efficient collaboration.
-
-### 3. **Stablecoin Rewards for Ecosystem Participants**
-Participants in the Doctelligence network — including data owners, AI developers, and validators — can earn **stablecoin rewards** for their contributions. This incentive structure ensures fair and transparent compensation.
-
-## Roadmap
-
-The **Doctelligence Roadmap** outlines the phases of protocol development and ecosystem growth, from initial development to full decentralization. It is a community-driven document that is refined based on feedback and evolving needs.
-
-Each phase includes key milestones like:
-
-- Initial development and whitepaper release
-- Testnet deployment and ecosystem growth
-- Mainnet launch and governance decentralization
-- Long-term innovation and real-world applications
-
-For the full roadmap, please visit our [Roadmap Page](https://doctelligence.github.io/roadmap).
-
 ## Contributing
 
 We welcome contributions to the Doctelligence website repository! Whether it's improving documentation, fixing bugs, or helping with website design, we value your input.
