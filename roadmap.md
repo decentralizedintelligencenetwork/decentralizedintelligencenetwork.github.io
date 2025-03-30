@@ -98,17 +98,11 @@ This roadmap is a living document, shaped and refined by the input of our commun
 ### 🌐 Ecosystem Growth
 - Strengthen ecosystem partnerships and broaden capabilities to support decentralized applications. (-)
 
-### 🛠️ Real-World DApps
-- Promote the development of DApps that address pressing global challenges, offering practical solutions. (-)
-
 ### 🧑‍🔬 Research & Development
 - Advance research in decentralized AI and collaborate with key industry leaders to push the boundaries of AI in blockchain. (-)
 
 ### 🔗 Interoperability & Industry Standards
 - Partner with industry bodies to set global standards for decentralized AI networks, ensuring interoperability. (-)
-
-### 🏢 Enterprise Solutions Integration
-- Tailor solutions for enterprises to drive adoption within major corporations, boosting the ecosystem's credibility and reach. (-)
 
 ### 🛠️ Decentralized AI Marketplaces
 - Launch a decentralized marketplace for AI models and datasets, ensuring fair compensation, transparency, and quality control. (-)
