@@ -1,7 +1,7 @@
 [
   {
     "title": "Data Ownership",
-    "description": "Gives individuals full control of their personal health records (PHRs) within a secure, decentralized network.",
+    "description": "Enables data ecosystems to maintain full control over their data within a secure, decentralized infrastructure.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Decentralized AI",
-    "description": "Transforms healthcare with a secure, scalable peer-to-peer federated learning (FL) network for AI model training on encrypted data.",
+    "description": "Transforms infrastructure with a lightweight protocol into a secure, scalable, trustless peer-to-peer FL network for model updates.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Direct Rewards",
-    "description": "Enables peer-to-peer data monetization, allowing individuals to earn stablecoin rewards directly without intermediaries.",
+    "description": "Supports peer-to-peer data monetization within ecosystems, removing intermediaries and allowing direct rewards.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
