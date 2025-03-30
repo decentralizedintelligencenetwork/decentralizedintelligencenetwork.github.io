@@ -1,27 +1,38 @@
 ---
 title: Learn  
 layout: page  
-description: Discover how Doctelligence enables secure, decentralized AI model training and data collaboration in the healthcare ecosystem.  
+description: Discover how Doctelligence enables secure, peer-to-peer AI and data marketplace ecosystems through decentralized infrastructure.  
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** empowers **healthcare professionals** to improve healthcare services by giving them control over **Personal Health Records (PHRs)**, which are securely stored and maintained in a decentralized ecosystem. With **Doctelligence**, healthcare delivery becomes more efficient, patient-centric, and privacy-focused, providing the foundation for trusted, transparent care.
+**Doctelligence** is a **peer-to-peer protocol** that enables decentralized AI ecosystems and **data marketplaces**. It allows secure collaboration and innovation while keeping data in its original location, reducing the need for movement or sharing.
 
-At its core, **Doctelligence** integrates **AI model training** through **federated learning (FL)**, allowing **AI developers** to train models using **encrypted health data** without exposing sensitive information. This collaboration leads to enhanced healthcare outcomes through innovative AI solutions, all while ensuring full control over data privacy.
+At its core, Doctelligence enables **secure AI model training** using **any data, anywhere**, fostering collaboration without compromising data privacy.
 
 ### How It Works
 
-- **For Healthcare Professionals**: Improve your practice by leveraging AI models trained on real patient data. Doctelligence lets you manage healthcare solutions for your patients within a **secure, decentralized network**, supporting better care and contributing to **decentralized health insurance**. Plus, earn **stablecoin rewards** for your contributions.
+- **For AI Developers**: Doctelligence gives secure, decentralized access to diverse data sources for model training. Developers can train AI models without moving or exposing sensitive data.
 
-- **For AI Developers**: Gain secure access to **personal health records (PHRs)** to collaborate and build advanced AI models for healthcare. **Doctelligence** ensures that AI training respects privacy, as the data never leaves its original location and is processed through federated learning.
+- **For Data Owners**: Data owners retain **full control** and ownership of their data, allowing them to monetize it securely within the decentralized network without giving up control.
 
-### Key Benefits
+### Key Features
 
-- **Patient Data Ownership**: Patients maintain control over their personal health data, enabling better privacy and security in healthcare practices.
+- **Data Ownership & Utilization**  
+  Data stays securely **under the owner's control**, enabling efficient use for AI model training without transferring or compromising privacy.
 
-- **AI-Driven Healthcare Solutions**: AI models built on secure health data can optimize treatment options, improve decision-making, and foster innovation in healthcare delivery.
+- **Peer-to-Peer Network**  
+  Doctelligence operates as a **decentralized peer-to-peer network**, removing third-party intermediaries, ensuring secure and efficient model updates.
 
-- **Earn Rewards**: Both healthcare professionals and AI developers earn **stablecoin rewards** for contributing to the ecosystem, encouraging sustainable participation and investment.
+- **Stablecoin Rewards**  
+  Participants — including data owners and AI developers — earn **stablecoin rewards** for contributions, providing fair and transparent compensation.
+
+### Why Choose Doctelligence?
+
+- **No Data Movement**: Data stays in its original location, ensuring privacy and security.
+  
+- **Decentralized Collaboration**: The peer-to-peer network enables secure and efficient AI training and collaboration.
+
+- **Fair Rewards**: Stablecoin rewards offer a **transparent** compensation system for all participants.
 
 ### Join Us  
-Be part of the future of **decentralized health AI**. **Doctelligence** is transforming healthcare through secure, AI-powered solutions while ensuring data privacy and control. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence) to get involved.
+Be part of the future of **decentralized AI** and **data marketplaces**. [Contact us](https://doctelligence.github.io/contact/) or check out our [GitHub](https://github.com/Doctelligence) to get involved.
