@@ -14,7 +14,7 @@ This roadmap is a living document, shaped and refined by the input of our commun
 - Refine and expand the Whitepaper to reflect the latest advancements in the Doctelligence protocol and decentralized ecosystem. (✓)
 
 ### 📅 Presentations at Key AI & Blockchain Events
-- Engage with the community at global events like RDI Berkeley and NYC's DeAI events to discuss and share Doctelligence developments. (✓)
+- Engage with the community at global events like RDI Berkeley, NYC's DeAI events, and the AI & Blockchain Summit to discuss and share Doctelligence developments. (✓)
 
 ### 🧪 Prototype Development
 - Deploy live prototypes and conduct experiments on advanced computing clusters, ensuring optimal network performance for decentralized AI. (✓)
@@ -22,49 +22,49 @@ This roadmap is a living document, shaped and refined by the input of our commun
 ### 💰 Grants Funding
 - Secure grants funding to support the next phase of development, ensuring alignment with our mission to build a sustainable and decentralized infrastructure. (✓)
 
-### 🌐 Strategic Ecosystem Partnerships
-- Forge key partnerships with AI & Blockchain hubs, accelerating the expansion of the decentralized ecosystem. (-)
+### 🌐 Proof of Concept (PoC) Development
+- Develop the early testnet PoC with initial community involvement, testing the foundational components and ensuring early-stage ecosystem viability. (-)
 
 ---
 
 ## Phase 2: Protocol Enhancement & Ecosystem Growth
 
-### 🔗 Testnet Development
+### 🔗 Testnet Development & Feedback
 - Rapidly develop and deploy a high-performance **Doctelligence** Testnet, ensuring scalability and security. (-)
+
+### ⚡ EVM Compatible Blockchain Integration
+- Partner with EVM compatible blockchain for enhanced scalability and adoption. Protocol remains chain agnostic. (-)
 
 ### 👩‍💻 Expand Development Team
 - Increase team capacity to expedite protocol development and scale the infrastructure. (-)
-
-### ⚡ Ethereum L2 Integration
-- Partner with Ethereum Layer 2 solutions (Optimism) for enhanced scalability and adoption. (-)
 
 ### 🤖 Integrate AI & Data Ecosystems
 - Enable seamless AI and data integrations with decentralized frameworks like **OpenMined** and **SOLID**. (-)
 
 ### 📅 Community Engagement at Major Events
-- Actively engage in events like **DevCon**, **AI Summit**, and **Blockchain Expo** to foster growth and awareness. (-)
+- Actively engage in events like **DevCon**, **DeSCI Summits**, **ETHGlobal**, **Encode Club hackathons**, and **Web3 NYC** to foster growth and awareness. (-)
 
-### 🏢 Foundation Establishment & Token Generation
+### 🏢 Token Generation Event & Foundation Establishment
 - Set up the foundation and initiate the **Token Generation Event (TGE)** to support decentralized growth. (-)
 
 ---
 
-## Phase 3: Testnet Launch & Developer Ecosystem
+## Phase 3: Enhanced Testnet Protocol Development, Developer Ecosystem
 
-### 🚀 Testnet Deployment & Feedback
+### 🚀 Enhanced Testnet Deployments & Feedback
 - Launch the Testnet and collect actionable feedback from developers, validators, and ecosystem participants for further refinement. (-)
 
 ### 🧑‍💻 Developer Tools & Data Integration
 - Release APIs, SDKs, and prebuilt models for easy integration, accelerating AI development in the decentralized space. (-)
 
-### 🔧 Protocol Optimization & Auditing
-- Continuously optimize the protocol and conduct security audits to ensure robust performance. (-)
-
 ### 🔗 Staking Ecosystem & DPoS
 - Implement validator staking and develop a **Delegated Proof of Stake (DPoS)** system to secure and decentralize the network. (-)
 
+### 🔧 Protocol Optimization & Auditing
+- Continuously optimize the protocol and conduct security audits to ensure robust performance. (-)
+
 ### 🌍 Expand Ecosystem Partnerships
-- Form key partnerships with organizations like **Google DeepMind** and host hackathons to drive ecosystem growth. (-)
+- Form key partnerships with leading decentralized protocols such as **Encode Club**, **OpenMined**, and **Ocean Protocol**, and host hackathons to drive ecosystem growth. (-)
 
 ### 🎉 Genesis Token Airdrop
 - Distribute tokens to early participants to incentivize contributions and kickstart the decentralized network. (-)
@@ -76,17 +76,20 @@ This roadmap is a living document, shaped and refined by the input of our commun
 ### 🖥️ Mainnet Launch
 - Deploy the **Doctelligence** Mainnet, establishing a decentralized, public infrastructure that generates network fees and supports long-term value. (-)
 
-### 💸 Token & Development Fund Management
-- Manage funds transparently to drive the ecosystem's growth through decentralized resource allocation. (-)
-
 ### 🏛️ Governance & Ownership Decentralization
 - Transition governance to the community, making **Doctelligence** a fully decentralized network. (-)
 
-### 🧑‍🔬 AI for Decentralized Networks
-- Foster R&D to advance AI technologies that support decentralized ecosystems, accelerating innovation. (-)
+### 🌍 AI for Decentralized Networks
+- Foster R&D to advance FL technologies that support decentralized ecosystems, accelerating innovation across sectors like health, smart cities, Depin, etc. (-)
 
-### 🌍 Infrastructure Adoption Across AI-Data Marketplace Applications
-- Accelerate the adoption of **Doctelligence** infrastructure across AI, data marketplace, and enterprise applications, enabling seamless integration and empowering innovation in these sectors. (-)
+### 💸 Token & Development Fund Management
+- Manage funds transparently to drive the ecosystem's growth through decentralized resource allocation. (-)
+
+### 🌍 Cross-Chain Integration of Infrastructure
+- Integrate **Doctelligence** with other decentralized infrastructures, enabling cross-chain compatibility and further expanding the ecosystem. (-)
+
+### 🛠️ Community-Driven Development & Feedback Loops
+- Establish a strong community-driven development process, allowing continuous feedback and iterative improvement from validators, developers, and early adopters. This helps refine and scale the protocol efficiently. (-)
 
 ---
 
