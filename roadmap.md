@@ -25,14 +25,15 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 ✓ Refined and expanded the Whitepaper to reflect the latest advancements in the Doctelligence protocol  
 ✓ Published technical architecture documentation and governance framework
 
-### 🧪 Prototype Development (Completed Mar 2024)
-✓ **Live Prototype Deployed**: Implemented and tested core rewards functions with unit tests  
-🔗 [View on GitHub](https://github.com/Doctelligence/DIN-Prototype)
+### 🧪 Prototype & Simulation  
+**✅ Completed – March 2024**  
+- **Live Prototype Launched** with core rewards logic  
+  🔗 [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype)  
+- **Performance Simulations** run at Oxford University  
+  🔗 [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator)  
+- 📊 **Achieved:** 85% of target performance benchmarks for decentralized operations
 
-✓ **Performance Simulations Conducted**: Ran extensive performance experiments using Oxford University's computing clusters  
-🔗 [Simulation Code on GitHub](https://github.com/Doctelligence/DIN-Protocol-Simulator)
-
-✓ **Metrics Achieved**: Reached **85% of targeted performance benchmarks** for decentralized AI operations, validating protocol scalability and efficiency
+---
 
 ### 📅 Strategic Industry Engagement (2024–2025)
 
