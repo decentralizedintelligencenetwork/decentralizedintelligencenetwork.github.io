@@ -1,3 +1,10 @@
+---
+title: Buikd  
+layout: page  
+description: Learn how to build on Doctelligence to create decentralized AI solutions and integrate federated learning with EVM-compatible blockchain ecosystems.  
+intro_image_hide_on_mobile: true  
+---
+
 # Build with Doctelligence
 
 **Doctelligence** is an open-source protocol that allows you to **build** decentralized applications (dApps), integrate federated learning, and customize the system. Here’s how you can get involved:
