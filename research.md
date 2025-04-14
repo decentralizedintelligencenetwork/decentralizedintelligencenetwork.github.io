@@ -5,29 +5,88 @@ description: Explore how decentralized AI and data ecosystems are transforming i
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** is pioneering research in decentralized AI, data privacy, and blockchain technologies to create secure, efficient ecosystems for AI development and data collaboration. Our research focuses on advancing privacy, data sovereignty, and decentralized networks to empower AI developers, data owners, and ecosystem participants.
+# Research & Collaboration
 
-#### 1. **Enabling Federated Learning in Decentralized Data Ecosystems**
-- **Protocol Design for Federated Learning**: Our research focuses on developing protocols that enable seamless Federated Learning (FL) processes within decentralized data ecosystems, supporting privacy-preserving collaboration while ensuring scalability and efficiency in model training.
+Doctelligence was born from rigorous academic research, starting in the **Oxford Computer Science Department** and later presented at **UC Berkeley’s Research in Decentralized Intelligence (RDI)**. We’re committed to advancing decentralized AI, federated learning, and data sovereignty through deep, interdisciplinary research. Our vision is to work collaboratively with academic communities, research institutions, and industry leaders to tackle the complex challenges of privacy, data sharing, and scalable AI systems.
 
-#### 2. **Data Privacy & Security**
-- **Privacy-Preserving AI**: We investigate methods for training AI models without compromising data privacy, ensuring that data can be securely shared within decentralized ecosystems while maintaining control over it.
+---
 
-#### 3. **Blockchain & Incentives**
-- **Blockchain for Security and Rewards**: We explore how blockchain and smart contracts can secure decentralized ecosystems and automate processes like data access, rewards distribution, and governance, fostering fair and sustainable participation through stablecoin incentives.
+## Our Research Journey
 
-### Our Collaborations
+Our journey began in the **Oxford Computer Science Department**, where we explored novel ways to decentralize AI learning and preserve data sovereignty. Building on this foundation, we presented our **white paper (v1)** at **UC Berkeley’s RDI**, showcasing the potential for decentralized federated learning and the integration of blockchain technology to create privacy-preserving AI ecosystems.
 
-Doctelligence collaborates with leading research institutions and universities to advance decentralized AI and data privacy. We share findings through open-source contributions, publications, and events, contributing to the research community’s growth.
+### Key Research Areas:
+- **Decentralized Federated Learning**: Exploring methods for secure, scalable machine learning where data remains distributed across participants without compromising privacy.
+- **Data Sovereignty**: Ensuring that individuals maintain full control over their data in a decentralized context, supported by secure encryption techniques.
+- **Blockchain for AI**: Leveraging blockchain technology to create transparent, immutable systems that facilitate decentralized collaboration between AI developers and data owners.
+- **Privacy-Preserving Techniques**: Integrating cutting-edge cryptographic methods such as homomorphic encryption, secure multi-party computation (MPC), and zero-knowledge proofs (ZKPs) to ensure data privacy while enabling collaboration.
 
-### Get Involved
+---
 
-- **Collaborate with Us**: Researchers, institutions, and academics can [contact us](https://doctelligence.github.io/contact/) to explore partnership opportunities.
-- **Explore Our Research**: Check out our [GitHub](https://github.com/Doctelligence) for research papers and publications.
-- **Join Our Events**: Participate in our conferences, workshops, and webinars focused on decentralized AI.
+## Open to Collaboration
 
-### The Future of Decentralized AI
+At Doctelligence, we believe that collaboration is key to solving the pressing challenges in AI and decentralized systems. We welcome partnerships and collaboration with **academic researchers**, **universities**, and **industry experts**. Whether you are interested in joint research initiatives, conducting experiments, or contributing to our open-source projects, we invite you to join us in advancing the field of decentralized AI.
 
-Our research is shaping a future where AI and data ecosystems are transparent, secure, and inclusive. Join us in building a decentralized, collaborative AI landscape that empowers data owners and AI developers.
+### Collaboration Opportunities:
+- **Joint Research Projects**: Partner with us to explore new ideas in federated learning, decentralized systems, and privacy preservation.
+- **Academic Papers & Publications**: Collaborate on papers, articles, and case studies that showcase the benefits and challenges of decentralized AI technologies.
+- **Technical Development**: Contribute to our open-source platform by collaborating on new features, optimizations, or integration with other research and technologies.
+- **Grants & Funding**: If you're involved in research funding, we welcome opportunities to apply for grants that support academic and technical projects related to decentralized AI and data privacy.
 
-[Join Us](https://doctelligence.github.io/contact/) and help us create a more open, secure, and efficient AI ecosystem.
+---
+
+## Our Research Impact
+
+Our research has already had a significant impact on both the academic and industry landscapes. We aim to provide a robust, scalable framework for AI development and data collaboration, enabling secure, decentralized ecosystems for privacy-respecting AI applications.
+
+### Key Outcomes:
+- **Scalable Decentralized AI Models**: Proven methods for training AI models without transferring sensitive data.
+- **Data Ownership & Control**: Pioneering systems where individuals retain control over their data, with built-in incentives for participation.
+- **New Cryptographic Techniques**: Advancement in cryptographic techniques such as secure aggregation and privacy-preserving protocols.
+- **Cross-Disciplinary Impact**: Bridging the gap between blockchain technology, federated learning, and AI to build robust privacy-preserving ecosystems.
+
+---
+
+## Join Our Research Network
+
+We invite researchers, academic institutions, and students to join us in pushing the boundaries of what is possible in decentralized AI. If you're interested in collaborating on research projects, presenting findings, or contributing to ongoing developments, we’d love to hear from you.
+
+### How to Get Involved:
+- 📚 **Explore Our White Papers**: Start by reading our [White Paper v1](https://doctelligence.github.io/whitepaper) for an in-depth look at our research and vision.
+- 📝 **Contact Us for Collaboration**: Reach out to us at [research@doctelligence.org](mailto:research@doctelligence.org) to discuss potential research opportunities and collaborations.
+- 💻 **Contribute to Our Open-Source Project**: Check out our [GitHub repository](https://github.com/Doctelligence) for ongoing research-driven development.
+
+We look forward to building a strong academic network focused on decentralized intelligence, privacy-preserving AI, and the future of data sovereignty.
+
+---
+
+## Upcoming Events & Presentations
+
+We regularly participate in academic conferences, workshops, and industry events to share our research and collaborate with thought leaders in AI, blockchain, and decentralized systems.
+
+- 📅 [DefiConf NYC](https://deficonf.nyc): Join us at DefiConf NYC for discussions on decentralized finance, blockchain, and AI.
+- 🎤 **RDI at UC Berkeley**: Watch for upcoming talks and paper presentations where we showcase our latest research and findings.
+
+---
+
+## Our Research Team
+
+Doctelligence's research team is composed of experts in **AI**, **blockchain**, **cryptography**, and **distributed systems**. Our team continues to work closely with academic leaders from top universities, ensuring that our projects remain on the cutting edge of technological advancement.
+
+### Research Partners:
+- Oxford University
+- UC Berkeley RDI
+- Leading AI and Blockchain Research Institutions
+
+---
+
+## Let’s Shape the Future Together!
+
+Whether you’re an academic, researcher, or institution looking to collaborate, Doctelligence is committed to advancing the state of decentralized AI and privacy-preserving technologies. Let’s work together to push the boundaries of what’s possible.
+
+### Get In Touch:
+- 📧 [Email Us for Collaboration](mailto:research@doctelligence.org)
+- 💻 [Explore Our Research on GitHub](https://github.com/Doctelligence)
+- 📚 [Read Our White Paper](https://doctelligence.github.io/whitepaper)
+
+Join us in building a decentralized, privacy-preserving future for AI.
