@@ -38,13 +38,13 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
 
-| 📅 Event | 🗣️ Talk Title | 🔗 Links |
-|---------|--------------|----------|
-| **RDI Berkeley (Aug ‘24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) |
-| **ETHDenver (Mar ‘25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) |
-| **Consensus 2025** | Attendance confirmed | [Consensus](https://consensus2025.coindesk.com) |
-| **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Post](https://x.com/mbrendan1) |
-| **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) |
+| 📅 Event | 🗣️ Talk Title / Role | 🔗 Links | 🏷️ Sponsored By |
+|---------|------------------------|----------|------------------|
+| **RDI Berkeley (Aug ‘24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) | Oxford CS Department |
+| **ETHDenver (Mar ‘25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) | Oxford Blockchain Society, EduDAO |
+| **Consensus 2025** | Attendance Confirmed | [Consensus](https://consensus2025.coindesk.com) | EduDAO |
+| **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Post](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
+| **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | Summit (Sponsored Attendance) |
 
 ---
 ### 🔧 In Progress (June–August 2025)
