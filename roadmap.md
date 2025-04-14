@@ -1,3 +1,10 @@
+---
+title: Roadmap  
+layout: page  
+description: "This page provides a high-level roadmap, outlining key milestones and long-term performance goals. It serves as a guiding framework for the development of our technology, with a focus on ambitious, excellence-driven targets for the future."
+intro_image_hide_on_mobile: true  
+---
+
 # Doctelligence Roadmap
 
 This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency.
