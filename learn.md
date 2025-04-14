@@ -42,6 +42,7 @@ By decentralizing access and rewards, Doctelligence opens the door to **global c
 #### ⚙️ Visual Overview
 
 ![Doctelligence Protocol Overview](https://doctelligence.github.io/images/illustrations/Figure%201.png)
+
 **1. Developer submits model → 2. Protocol coordinates training → 3. Data stays in place → 4. Updates aggregated securely → 5. Rewards distributed.
 **
 ---
