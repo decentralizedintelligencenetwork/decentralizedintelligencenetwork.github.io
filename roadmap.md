@@ -31,7 +31,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
   🔗 [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype)  
 - **Performance Simulations** run at Oxford University  
   🔗 [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator)  
-- 📊 **Achieved:** 85% of target performance benchmarks for decentralized operations
+- 📊 **Achieved:** 99% of target performance benchmarks for decentralized operations
 
 ---
 
