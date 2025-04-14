@@ -5,31 +5,91 @@ description: Integrate Doctelligence’s decentralized infrastructure into your 
 intro_image_hide_on_mobile: true  
 ---
 
-**Doctelligence** provides a decentralized, peer-to-peer network for seamless integration with AI and data applications. Whether you're developing AI models or managing data marketplaces, our infrastructure ensures privacy, scalability, and secure collaboration without data movement.
+# Community & Contributors
 
-#### 1. **Integrate Decentralized AI & Data Marketplace Capabilities**
-- **Plug into Our Infrastructure**: Easily integrate Doctelligence’s decentralized protocol for secure AI training on data without moving sensitive data.
-  
-#### 2. **Build Decentralized Applications**
-- **Leverage Peer-to-Peer Network**: Build scalable applications powered by our decentralized network, ensuring security and privacy.
+Welcome to the Doctelligence community! We believe that open collaboration and shared knowledge are crucial to building a sustainable and decentralized AI ecosystem. Whether you’re a developer, researcher, enthusiast, or blockchain ecosystem manager, there are multiple ways to get involved.
 
-#### 3. **Contribute to the Core Ecosystem**
-- **Help Shape the Future**: Contribute to Doctelligence’s core infrastructure and governance. [Join us on GitHub](https://github.com/Doctelligence) to collaborate and build.
+---
 
-### Why Choose Doctelligence?
+## Join the Doctelligence Community
 
-- **Privacy by Design**: Data remains in place, ensuring privacy for data owners.
-- **Scalable and Decentralized**: Build secure, scalable AI solutions without relying on centralized intermediaries.
-- **Fair Rewards**: Earn **stablecoin rewards** for your contributions to the ecosystem.
+Being part of the Doctelligence community means you're contributing to the future of decentralized AI and privacy-preserving data technologies. Join us to stay up to date with the latest developments, contribute your ideas, and collaborate with like-minded individuals.
 
-### Get Involved
+### Ways to Get Involved:
+- **Join the Discussion**:  
+   Participate in discussions about the future of decentralized federated learning, data sovereignty, and blockchain-based AI applications.
+   - 🌐 **Slack**: Join the conversation on our [Slack channel](https://doctelligence.slack.com).
+   - 🧑‍🤝‍🧑 **Discord**: Chat with other developers and researchers in our [Discord server](https://discord.gg/J8x8kTwhGm).
+   - 🗣️ **Forum**: Visit our [community forum](https://doctelligence.community) for structured discussions.
 
-- **Start Integrating**: Check out our [developer documentation](https://doctelligence.github.io/docs) to integrate Doctelligence into your projects.
-- **Join the Community**: Connect with us on [Discord](https://discord.com/invite/doctelligence) and [GitHub](https://github.com/Doctelligence) to contribute, collaborate, and innovate.
-- **Become a Validator**: Secure the network and earn rewards by [becoming a validator](https://doctelligence.github.io/validators).
+- **Attend Events**:  
+   Connect with the community by attending our events and meetups—whether virtual or in-person. We host regular hackathons, webinars, and community calls.
+   - 📅 [Upcoming Events](https://deficonf.nyc)
 
-### Drive the Future of Decentralized AI
+---
 
-Integrating Doctelligence means you're helping create a more secure, privacy-focused, and scalable AI ecosystem. Let’s build the future of decentralized AI and data marketplaces together.
+## Contribute to Doctelligence
 
-[Get Started Today](https://doctelligence.github.io/contact/)
+Doctelligence is an open-source protocol, and contributions from the community are vital to its growth. Whether you want to add new features, report bugs, write documentation, or review code, every contribution makes a difference. Here’s how you can get started:
+
+### Ways to Contribute:
+- **Submit Code**:  
+   Fork our [GitHub repository](https://github.com/Doctelligence) and submit pull requests (PRs) for new features, bug fixes, or improvements to existing functionality.  
+   - Check out our [Contributing Guidelines](https://github.com/Doctelligence/contribute) to understand how to get started.
+   - 🔧 **Help Improve Features**: Add or enhance features like federated learning models, decentralized data management, or integration with EVM-compatible blockchains.
+
+- **Documentation**:  
+   Good documentation is essential for the success of any open-source project. If you’re passionate about making our documentation better, we welcome your contributions!  
+   - 📝 Edit and improve our [Docs](https://doctelligence.github.io/docs).
+
+- **Reporting Issues**:  
+   If you encounter bugs or have suggestions for improvement, we encourage you to report them.
+   - 🚨 **Create an Issue** on [GitHub](https://github.com/Doctelligence/issues).
+
+- **Community Building**:  
+   Help us grow the community by spreading the word about Doctelligence. Organize local meetups, share ideas, and encourage new developers to get involved.
+
+---
+
+## Get Recognition for Your Contributions
+
+At Doctelligence, we believe in recognizing and celebrating the contributions of our community members. We track and showcase top contributors and their contributions through various initiatives:
+- 🏅 **Contributor of the Month**: Recognizing outstanding contributions to the codebase, documentation, or community engagement.
+- 🎉 **Community Milestones**: Celebrate key milestones in our journey—whether it’s a major release, successful hackathon, or community event.
+- 💼 **Collaborations and Partnerships**: We welcome industry leaders, academic researchers, and blockchain ecosystems to collaborate with us in advancing decentralized AI solutions.
+
+---
+
+## Help Us Spread the Word
+
+The future of decentralized AI requires a strong, growing community. Here’s how you can help:
+- **Share on Social Media**: Spread the word on Twitter, LinkedIn, Reddit, or any platform you prefer. Follow us for updates:
+   - 🐦 [Twitter](https://x.com/doctelligence)
+   - 📘 [Facebook](https://facebook.com/Doctelligence)
+   - 📸 [Instagram](https://instagram.com/Doctelligence)
+
+- **Write a Blog Post**: Share your experiences with Doctelligence. Write about how it’s helping your projects, how you’re using it in your blockchain ecosystem, or technical tutorials on federated learning.
+
+- **Present Doctelligence at Conferences**: Advocate for decentralized AI at industry conferences, webinars, and hackathons. We provide resources and slides to help you get started.
+
+---
+
+## Why Contribute to Doctelligence?
+
+Being a part of Doctelligence is about much more than just writing code. It’s about contributing to an open, sovereign, and privacy-preserving future for decentralized AI. By contributing to Doctelligence, you’re joining a network of forward-thinking individuals who are passionate about decentralized technologies and solving some of the biggest challenges in data privacy and machine learning.
+
+### Key Benefits of Contributing:
+- 💡 **Impact**: Your work directly impacts the future of AI and decentralized data systems.
+- 🚀 **Recognition**: Showcase your contributions and gain recognition in the global open-source community.
+- 🌍 **Collaboration**: Work alongside top developers, researchers, and blockchain innovators.
+- 🏆 **Skill Building**: Contribute to an evolving project and sharpen your skills in federated learning, blockchain, and decentralized systems.
+
+---
+
+## Get Started Now!
+
+- 📚 [Read the Docs](https://doctelligence.github.io/docs) to learn more about Doctelligence and how to get involved.
+- 💻 [Contribute on GitHub](https://github.com/Doctelligence)
+- 🌐 [Join the Community](https://doctelligence.community)
+
+Let’s build a more decentralized and privacy-preserving AI future, together!
