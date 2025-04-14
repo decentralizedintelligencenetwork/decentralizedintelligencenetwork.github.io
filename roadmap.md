@@ -34,6 +34,7 @@ Sponsored by EduDAO & Oxford Blockchain Society
 
 ✓ **Consensus 2025 – Attendance Confirmed**  
 Doctelligence team will officially attend [Consensus 2025](https://consensus2025.coindesk.com/)
+Sponsored by EduDAO [EduDAO](https://edudao.io) 
 
 ✓ **DeFiCon NYC – June 2025**  
 *Talk:* _"Decentralized AI Infrastructure"_  
@@ -69,21 +70,22 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 - **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
   - Initial protocol implementation with basic functionality
-  - Performance goal: Support for 500+ transactions per minute
-  - Latency goal: 30-second average for federated model updates
+  - Performance goal: X
+  - Latency goal: X average for federated model updates
 - **Beta Testnet**: Expand to 100+ validator nodes by September 15, 2025
   - Enhanced functionality and improved stability
-  - Performance goal: Support for 1,000+ transactions per minute
-  - Latency goal: 15-second average for federated model updates
+  - Performance goal: X
+  - Latency goal: X average for federated model updates
 - Initial security assessment completion by September 30, 2025
 
 ### 👩‍💻 Core Team Support (June 15 - September 30, 2025)
-- Maintain existing team operations with grant funding
-- Establish contractor network for specialized needs:
-  - Part-time technical advisors for EVM and distributed systems expertise
-  - Project-based UX consultant for testnet interface design
-  - Community engagement through existing team and volunteers
-- Develop comprehensive hiring plan for Phase 3 when additional funding is secured
+- Continue maintaining current team operations with grant funding.
+- Build a network of contractors for specialized needs:
+  - Ensure continuity of core team blockchain/FL developers for EVM and distributed systems testnet preparation.
+  - Engage a project-based UX consultant for the design of the testnet interface.
+- Engage co-development ecosystem partners for integration support:
+  - Collaborate with **SOLID** (Jesse, Lead), **EVM-Compatible Blockchain**, **Flower Labs** (Javier, CSO), and **OpenMined** (network established).
+✓ - Review and finalize the pre-prepared Phase 3 hiring plan (Completed), with an accompanying month-by-month budget and burn sheet, and fully prepared 18-month development and 3-year strategic roadmaps. (**Completed**).
 
 ### 🤖 Early Data & AI Integration (July 15 - September 30, 2025)
 - Strategic pilot programs with measurable goals:
