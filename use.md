@@ -1,3 +1,10 @@
+---
+title: Use  
+layout: page  
+description: Learn how to use Doctelligence to integrate decentralized federated learning with EVM-compatible blockchain ecosystems, ensuring privacy-preserving AI training and data sovereignty.  
+intro_image_hide_on_mobile: true  
+---
+
 # How to Use Doctelligence
 
 **Doctelligence** is a decentralized federated learning protocol that integrates with **EVM-compatible blockchain ecosystems**. It allows you to securely train AI models and manage data in a sovereign, privacy-preserving manner. Here’s how you can use it:
