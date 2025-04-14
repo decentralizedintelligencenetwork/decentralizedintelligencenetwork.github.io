@@ -43,7 +43,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **RDI Berkeley (Aug ‘24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) |
 | **ETHDenver (Mar ‘25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) |
 | **Consensus 2025** | Attendance confirmed | [Consensus](https://consensus2025.coindesk.com) |
-| **Cosmos Institute (May ‘25)** | Blog Feature | [Website](https://cosmos-institute.org) • [Post](https://x.com/mbrendan1) |
+| **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Post](https://x.com/mbrendan1) |
 | **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) |
 
 ---
