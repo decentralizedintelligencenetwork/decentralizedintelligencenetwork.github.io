@@ -11,12 +11,13 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ## 🚀 At a Glance: Key Roadmap Highlights
 
-| **Phase**  | **Dates**          | **Major Milestones**                                                                                                                                                       |
-|------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Phase 1** | **Q1 2024 – Q2 2025** | ✅ **Prototype Deployed** <br> ✅ **Whitepaper Released** <br> 🛠️ **PoC in Progress** <br> 🔗 **Industry Talks** <br> 📄 **Papers Published** |
-| **Phase 2** | **June – Sept 2025** | 🚧 **Alpha + Beta Testnet** <br> 💰 **Funding Milestone** <br> 🤝 **Ecosystem Pilots** <br> 🤖 **Data & AI Integration** |
-| **Phase 3** | **Q4 2025 – Q2 2026** | ✅ **Scalable Federated Learning (FL) System** Fully Integrated <br> 🔒 **Privacy-Preserving Techniques** Optimized (MPC, ZKPs) <br> 💡 **Ecosystem Growth**: Expansion to new partners <br> 📊 **Performance Benchmarks**: Achieve 80% efficiency in FL protocol <br> 🎯 **Testnet Stability**: Achieve >90% uptime in stress tests <br> 🌍 **Global Pilot Rollouts**: Targeting 5 international partners |
-| **Phase 4** | **Q3 2026 – Q4 2026** | 🚧 **Mainnet Launch** with Decentralized Network <br> 🎯 **Full Implementation** of Distributed Rewards System <br> 🤖 **Advanced AI Training**: Use-case demonstrations for healthcare, finance, etc. <br> 💰 **Tokenomics Integration**: Secure economic sustainability with decentralized reward distribution <br> 📈 **Onboard 50+ Active Nodes** for federated training |
+| **Phase**   | **Dates**           | **Major Milestones**                                                                                                                                                         |
+|-------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Phase 1** | **Q1 2024 – Q2 2025** | ✅ **Prototype Deployed** <br> ✅ **Whitepaper Released** <br> 🛠️ **PoC in Progress** <br> 🔗 **Industry Talks** <br> 📄 **Papers Published**                                        |
+| **Phase 2** | **June – Sept 2025**  | 🚧 **Alpha + Beta Testnet** <br> 💰 **Funding Milestone** <br> 🤝 **Ecosystem Pilots** <br> 🤖 **Data & AI Integration**                                                           |
+| **Phase 3** | **Q4 2025 – Q2 2026** | ✅ **Scalable Federated Learning (FL) System Fully Integrated** <br> 🔒 **Privacy-Preserving Techniques (MPC, ZKPs) Optimized** <br> 💡 **Ecosystem Growth** (New partners onboarded) <br> 📊 **Performance Benchmarks** (80% efficiency in FL protocol) <br> 🎯 **Testnet Stability** (Achieve >90% uptime in stress tests) <br> 🌍 **Global Pilot Rollouts** (Targeting 5 international partners) |
+| **Phase 4** | **Q1 – Q2 2026**      | 🚧 **Mainnet Launch** (Critical infrastructure, core functionality, full feature set) <br> 🎯 **Governance Decentralization** (DAO transfer of 75% control) <br> 🤖 **AI for Decentralized Networks** (Integration in key sectors) <br> 💰 **Protocol dApp Integration** (Transaction, staking, and service fees) <br> 📈 **Onboard 10,000+ Active Validators** |
+
 
 
 ## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
