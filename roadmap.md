@@ -69,7 +69,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
 ### 💰 Phase 2 Funding (June 2025)
-- Target: Secure $1.2M in grants and angel funding by May 31, 2025
+- Secure $1.2M in grants and angel funding by May 31, 2025
 - Applications submitted to 5+ blockchain/AI grant programs (Edge City - April 20th, remainder confidential)
 - **Critical Milestone**: Funding must be secured to gate Phase 2 activities
 
