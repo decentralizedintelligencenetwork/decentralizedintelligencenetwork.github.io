@@ -43,6 +43,10 @@ Sponsored by EduDAO & Oxford Blockchain Society
 Doctelligence team will officially attend [Consensus 2025](https://consensus2025.coindesk.com/)
 Sponsored by EduDAO [EduDAO](https://edudao.io) 
 
+✓ **Cosmos Institute – May 31st, 2025**  
+Project to be featured in an official blog and amplified across Cosmos Institute social media channels.  
+🔗 [Website](https://cosmos-institute.org) | [Post by Brendan](https://x.com/mbrendan1)
+
 ✓ **DeFiCon NYC – June 2025**  
 *Talk:* _"Decentralized AI Infrastructure"_  
 Officially confirmed speaker at a16z-sponsored event  
