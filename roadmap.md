@@ -64,7 +64,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ### 💰 Phase 2 Funding (June 2025)
 - Target: Secure grants funding by May 31, 2025
 - Applications submitted to 5+ blockchain/AI grant programs (Edge City - April 20th, remainder confidential)
-- **Critical Milestone**: Funding must be secured before proceeding with Phase 2 activities
+- **Critical Milestone**: Funding must be secured to gate Phase 2 activities
 
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 - **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
@@ -87,7 +87,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 
 ### 🤖 Early Data & AI Integration (July 15 - September 30, 2025)
 - Strategic pilot programs with measurable goals:
-  - SOLID integration (July 15 - August 15): Deploy 100+ data pods with 1,000+ sample records
+  - SOLID Integration (July 15 - August 15): Deploy 100+ data pods with 1,000+ sample records  
     - Led by tech advisor & SOLID lead Jesse Wright (Oxford)
   - OpenMined & Flower Labs (August 15 - September 30): Implement 2 federated learning models with 50+ participants
   - DesSc Partnership Program Launch (September 1): Secure 3+ ecosystem partnerships with aligned projects
@@ -98,7 +98,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
   - Achieve 3,000+ social media followers
   - 100+ active testnet participants
 - Key activities:
-  - 2 technical workshops at DeSci and ETHGlobal events
+  - 2 technical workshops at DeSci/ETHGlobal events
   - Bi-weekly developer office hours starting July 1, 2025
   - Launch developer incentive program with micro-bounties (July 15, 2025)
   - Host 1 hackathon with Encode Club (September 1-15, 2025)
@@ -106,16 +106,16 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
 
 ### 💰 Phase 3 Funding (October 2025)
-- Target: $3-5M angel round to fund protocol development through Mainnet
+- $3–5M angel round to fund protocol dev & Testnet → Mainnet transition
 - Swiss foundation establishment (Geneva) by September 15, 2025
 - Allocation structure: <20% to insiders with two private rounds
   - Primary round: October 1-15, 2025
   - Buffer round: Conditional upon successful testnet development, January 15-30, 2026
 - **Core Team Expansion**: Funding allocated to strategic hiring
-  - 2 blockchain developers with EVM expertise and distributed systems background
-  - 1 federated learning engineer with systems mechanics background
-  - 1 UX designer for testnet interface
-  - 1 community manager with proven growth metrics
+  - 3 Blockchain developers with EVM expertise and distributed systems background
+  - 2 Federated learning engineer with systems mechanics background
+  - 1 UX designer for Testnet/Mainnet interface environments
+  - 1 Community manager with proven growth metrics
   - Onboarding and training program implementation by November 15, 2025
 
 ### 🚀 Advanced Testnet Deployment (October 1 - December 15, 2025)
@@ -124,9 +124,9 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 - User feedback program targeting 80% satisfaction rate
 - Success metrics:
   - 95% uptime
-  - Support for 10+ concurrent federated learning models
+  - **Support for 10+ concurrent federated learning models**, specifically in collaboration with FL and data partners (e.g. FlowerLabs, OpenMined, and the SOLID communities).
   - 50+ developer projects built on the testnet
-- Stress testing with simulated network load (November 15 - December 15, 2025)
+- Stress testing with simulated network load (November 15 - December 15, 2025) 
 
 ### 🔗 Staking & Governance Implementation (October 15 - January 15, 2026)
 - Implement testnet validator staking with 100+ active validators
@@ -142,16 +142,16 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 - Target: Production-ready protocol by January 31, 2026
 - Bug bounty program: Launch with $250K pool (November 15, 2025)
 
-### 🌍 Strategic Partnerships (October 15, 2025 - January 31, 2026)
-- Partnership development with key targets:
-  - Ocean Protocol for data marketplace integration (November 2025)
-  - Cheqd.io for self-sovereign identity (December 2025)
-  - AGI Alliance (Fetch.ai, SingularityNet) for AI interoperability (January 2026)
-- Host 2 major hackathons with Encode Club (October & January)
-- Target: 10+ formal ecosystem partnerships by January 31, 2026
-- Integration showcase event (January 15, 2026)
+### 🌍 Strategic Partnerships (Q4 2025 – Q1 2026)  
+**Objective:** Accelerate adoption via integrations with top EVM ecosystems, decentralized AI/FL protocols, and community co-development.  
+-Key Partnerships  
+  - EVM Ecosystems
+      - **Optimism, Arbitrum, Polygon, zkSync, Base** – Protocol integrations for horizontal adoption.  
+-Decentralized AI/FL & Data
+- *Collaborators:* GoKiteAI (DeAI demo), Sentient Foundation (governance), Protocol Labs (IPFS), AGI Alliance (Fetch.ai/SingularityNET/Ocean), Vana/Ora/Sherpa.ai (user-owned models).
+- **Community Activation:** Host 2 Encode Club hackathons (Oct '25/Jan '26); drive DeSci collaborations on data sovereignty; secure 10+ EVM/AI partnerships by Jan 2026; demo cross-protocol integration (Jan 15). 
 
-### 🎉 TGE Preparation & Token Launch (January - February 2026)
+### 🌱 TGE Preparation & Token Launch (Q1 2026)  
 - Token Generation Event preparation (January 1-31, 2026)
 - Token launch and distribution (February 1-15, 2026)
 - Airdrop program for early participants:
@@ -159,8 +159,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
   - 100+ data providers based on quality and volume metrics
   - 200+ developers based on contribution impact
 - Target: 5,000+ initial token holders by February 15, 2026
-- Exchange listings: 3+ tier-1 DEXs at launch
-
+- Exchange listings: DEXs at launch + 3+ tier-1s
 
 ## Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
 
