@@ -28,30 +28,15 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
 
-✓ **RDI Berkeley – August 2024**  
-*Talk:* _"Decentralized ML Training at Scale"_  
-Selected from over 100+ applications focused on Decentralized AI (DeAI)  
-🔗 [Event Link](https://rdi.berkeley.edu/SBC2025/)
+| 📅 Event | 🗣️ Talk Title | 🔗 Links |
+|---------|--------------|----------|
+| **RDI Berkeley (Aug ‘24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) |
+| **ETHDenver (Mar ‘25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) |
+| **Consensus 2025** | Attendance confirmed | [Consensus](https://consensus2025.coindesk.com) |
+| **Cosmos Institute (May ‘25)** | Blog Feature | [Website](https://cosmos-institute.org) • [Post](https://x.com/mbrendan1) |
+| **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) |
 
-✓ **ETHDenver – March 2025**  
-*Talk:* _"Incentive Mechanisms for Federated Learning Networks"_  
-Sponsored by EduDAO & Oxford Blockchain Society  
-🔗 [EduDAO](https://edudao.io) | [Oxford Blockchain Society](https://www.oxfordblockchain.xyz)  
-🔗 [Event Link](https://www.ethdenver.com/)
-
-✓ **Consensus 2025 – Attendance Confirmed**  
-Doctelligence team will officially attend [Consensus 2025](https://consensus2025.coindesk.com/)
-Sponsored by EduDAO [EduDAO](https://edudao.io) 
-
-✓ **Cosmos Institute – May 31st, 2025**  
-Project to be featured in an official blog and amplified across Cosmos Institute social media channels.  
-🔗 [Website](https://cosmos-institute.org) | [Post by Brendan](https://x.com/mbrendan1)
-
-✓ **DeFiCon NYC – June 2025**  
-*Talk:* _"Decentralized AI Infrastructure"_  
-Officially confirmed speaker at a16z-sponsored event  
-🔗 [Event Link](https://deficonf.nyc)
-
+---
 ### 🔧 In Progress (June–August 2025)
 ✓ 📄 Publishing 2 technical papers on protocol architecture (April–May 2025)  
 🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
