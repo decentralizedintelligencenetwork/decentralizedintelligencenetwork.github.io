@@ -7,9 +7,9 @@ intro_image_hide_on_mobile: true
 
 # Learn About Doctelligence
 
-**Doctelligence** is a **decentralized blockchain protocol** for building sovereign AI ecosystems and peer-to-peer data marketplaces. It enables secure collaboration across distributed data sources — without ever moving or exposing the data itself.
+**Doctelligence** is a **peer-to-peer federated learning (FL) blockchain protocol** that serves as **infrastructure for EVM-compatible blockchain ecosystems**. It powers **open-AI ecosystems** and **sovereign data collaboration** by enabling secure coordination across distributed data sources — without ever moving or exposing the data itself.
 
-Whether you're training AI models, contributing data, or building new tools, Doctelligence lets you collaborate **securely, transparently, and fairly**, while keeping control where it belongs: with the data owner.
+Built to seamlessly integrate with **EVM-compatible blockchain ecosystems**, Doctelligence allows decentralized applications (dApps) and smart contracts to tap into federated learning capabilities, enabling secure, transparent, and fair AI collaboration directly on the blockchain. Whether you're training models, contributing data, or building decentralized applications, Doctelligence provides the foundational infrastructure to ensure **data sovereignty** and secure participation — while keeping control where it belongs: with the data owner.
 
 ---
 
@@ -42,9 +42,8 @@ By decentralizing access and rewards, Doctelligence opens the door to **global c
 #### ⚙️ Visual Overview
 
 ![Doctelligence Protocol Overview](https://doctelligence.github.io/images/illustrations/Figure%201.png)
-
-1. Developer submits model → 2. Protocol coordinates training → 3. Data stays in place → 4. Updates aggregated securely → 5. Rewards distributed.
-
+**1. Developer submits model → 2. Protocol coordinates training → 3. Data stays in place → 4. Updates aggregated securely → 5. Rewards distributed.
+**
 ---
 
 ### Key Differentiators
@@ -52,7 +51,7 @@ By decentralizing access and rewards, Doctelligence opens the door to **global c
 What sets Doctelligence apart from other AI infrastructure projects?
 
 - **No Data Movement**: Data remains local and sovereign — not even temporarily transferred.
-- **Fully Decentralized Protocol**: No central hubs or federated managers; coordination is on-chain or P2P.
+- **Fully Decentralized Protocol**: No central hubs or federated managers; coordination is on-chain and P2P.
 - **Fair, Transparent Rewards**: Built-in incentives using stablecoins — aligned with actual contributions.
 - **Composable Infrastructure**: Open architecture for integration into other decentralized systems or apps.
 - **Privacy by Design**: Cryptographic guarantees like **secure aggregation** and **privacy preservation** for data-regulation compliance.
