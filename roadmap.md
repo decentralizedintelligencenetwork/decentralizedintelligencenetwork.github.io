@@ -197,9 +197,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 - Value accrual mechanisms:
     - Transaction fees from network usage (30% of total value)
     - Staking rewards from network security (40% of total value)
-    - Service fees from AI model marketplace (30% of total value)
+    - Service fees from FL model marketplace dApps that integrate infrastructure (30% of total value). For more on the tracing fees model, see [this article](https://a16zcrypto.com/posts/article/application-tokens-economic-model-cash-flows/).
 - Quarterly buyback & burn program based on network revenue
 - Target: Achieve sustainable tokenomics with demonstrable utility value
 - KPIs: Monthly active users, transaction volume, token velocity metrics
-- Projected token utility milestones:
-    - Q1 2026
