@@ -39,9 +39,9 @@ By decentralizing access and rewards, Doctelligence opens the door to **global c
 - Choose when and how your data is used, with clear auditability.
 - Earn **stablecoin rewards** for enabling model training on your data.
 
-#### ⚙️ Visual Overview *(Consider adding a diagram here)*
-A suggested flowchart might include:
+#### ⚙️ Visual Overview
 
+![Doctelligence Protocol Overview](https://doctelligence.github.io/images/illustrations/Figure%201.png)
 
 1. Developer submits model → 2. Protocol coordinates training → 3. Data stays in place → 4. Updates aggregated securely → 5. Rewards distributed.
 
