@@ -34,99 +34,108 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 - Technical integration documentation in development
 - Target: Partnership announcement by May 31, 2025
 
-## Phase 2: Protocol Enhancement & Ecosystem Growth (June - August 2025)
+## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
-### 💰 Phase 2 Funding (In Progress - Critical Gate to Phase 2)
+### 💰 Phase 2 Funding (June 2025)
 - Target: Secure grants funding by May 31, 2025
-- Applications submitted to 5+ blockchain/AI grant programs (Edge City - April 20th, remainder confidential, etc.)
-- **Note**: Securing this funding is required before proceeding to Phase 2
+- Applications submitted to 5+ blockchain/AI grant programs (Edge City - April 20th, remainder confidential)
+- **Critical Milestone**: Funding must be secured before proceeding with Phase 2 activities
 
-### 🔗 Early Testnet Development (July 1 - August 31, 2025)
-- Target: Alpha testnet with 25+ validator nodes by July 31, 2025
-- Target: Beta testnet with 100+ validator nodes by August 31, 2025
-- Performance metrics:
-    - Support for 1,000+ transactions per minute
-    - X (i.e., 500ms, hours, days) average latency for federated model updates
-    - Security audit completion by September 15, 2025
+### 🔗 Testnet Development (June 15 - September 30, 2025)
+- **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
+  - Initial protocol implementation with basic functionality
+  - Performance goal: Support for 500+ transactions per minute
+  - Latency goal: 30-second average for federated model updates
+- **Beta Testnet**: Expand to 100+ validator nodes by September 15, 2025
+  - Enhanced functionality and improved stability
+  - Performance goal: Support for 1,000+ transactions per minute
+  - Latency goal: 15-second average for federated model updates
+- Initial security assessment completion by September 30, 2025
 
-### 🤖 AI & Data Ecosystem Integration (July - August 2025)
-- Specific pilot programs with measurable goals:
-    - SOLID integration (July 15): Deploy 100+ data pods with 1,000+ sample records (lead by our communities tech advisor & SOLID lead Jesse Wright in Oxford).
-Etc.
-    - OpenMined & Flower Labs (August 30): Implement 2 federated learning models with 50+ participants to estblaih ecosystem partnerships and 
+### 👩‍💻 Core Team Support (June 15 - September 30, 2025)
+- Maintain existing team operations with grant funding
+- Establish contractor network for specialized needs:
+  - Part-time technical advisors for EVM and distributed systems expertise
+  - Project-based UX consultant for testnet interface design
+  - Community engagement through existing team and volunteers
+- Develop comprehensive hiring plan for Phase 3 when additional funding is secured
 
-### 👩‍💻 Core Team Expansion (June 15 - July 15, 2025)
-- Hiring targets:
-    - 3 blockchain developers with specific EVM expertise
-    - 2 federated learning engineers
-    - 1 UX designer for testnet interface
-    - 1 community manager with proven growth metrics
+### 🤖 Early Data & AI Integration (July 15 - September 30, 2025)
+- Strategic pilot programs with measurable goals:
+  - SOLID integration (July 15 - August 15): Deploy 100+ data pods with 1,000+ sample records
+    - Led by tech advisor & SOLID lead Jesse Wright (Oxford)
+  - OpenMined & Flower Labs (August 15 - September 30): Implement 2 federated learning models with 50+ participants
+  - DesSc Partnership Program Launch (September 1): Secure 3+ ecosystem partnerships with aligned projects
 
-### 📅 Community Growth Strategy (June - August 2025)
+### 📅 Community Building (June 15 - September 30, 2025)
 - Target metrics:
-    - Grow developer community to 50+ members
-    - Achieve 5,000+ social media followers
-    - 200+ active testnet participants
-- Activities:
-    - 2 technical workshops at e.g. DeSci and ETHGlobal
-    - Weekly developer office hours starting July 1, 2025
-    - Launch developer incentive program with smaller bounties (July 15, 2025)
-    - Host 2 hackathons with Encode Club (August 1-15, 2025)
+  - Grow developer community to 50+ active members
+  - Achieve 3,000+ social media followers
+  - 100+ active testnet participants
+- Key activities:
+  - 2 technical workshops at DeSci and ETHGlobal events
+  - Bi-weekly developer office hours starting July 1, 2025
+  - Launch developer incentive program with micro-bounties (July 15, 2025)
+  - Host 1 hackathon with Encode Club (September 1-15, 2025)
 
-## Phase 3: Enhanced Testnet & Developer Ecosystem (September 2025 - December 2025)
+## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
 
-### 💰 Phase 3 Funding: Private Token Sale ()
+### 💰 Phase 3 Funding (October 2025)
 - Target: $3-5M angel round to fund protocol development through Mainnet
-- Swiss foundation establishment (Geneva) by June 15, 2025
+- Swiss foundation establishment (Geneva) by September 15, 2025
 - Allocation structure: <20% to insiders with two private rounds
-    - Primary round: xxx, 2025
-    - Buffer round: Conditional upon successful testnet development, August 15-30, 2025
+  - Primary round: October 1-15, 2025
+  - Buffer round: Conditional upon successful testnet development, January 15-30, 2026
+- **Core Team Expansion**: Funding allocated to strategic hiring
+  - 2 blockchain developers with EVM expertise and distributed systems background
+  - 1 federated learning engineer with systems mechanics background
+  - 1 UX designer for testnet interface
+  - 1 community manager with proven growth metrics
+  - Onboarding and training program implementation by November 15, 2025
 
-### 🚀 Enhanced Testnet Deployments (September 1 - October 15, 2025)
-- Target: Full-featured testnet with 500+ nodes by October 15, 2025
-- Weekly performance improvement releases
-- User feedback collection targeting 80% satisfaction rate
+### 🚀 Advanced Testnet Deployment (October 1 - December 15, 2025)
+- **Feature-complete testnet** with 500+ nodes by December 15, 2025
+- Bi-weekly performance improvement releases
+- User feedback program targeting 80% satisfaction rate
 - Success metrics:
-    - 95% uptime
-    - Support for 10 concurrent federated learning models
-    - 50+ developer projects built on the testnet
+  - 95% uptime
+  - Support for 10+ concurrent federated learning models
+  - 50+ developer projects built on the testnet
+- Stress testing with simulated network load (November 15 - December 15, 2025)
 
-### 🧑‍💻 Developer Tools & Data Integration (September 15 - November 15, 2025)
-- Release schedule:
-    - X API (September 15, 2025)
-    - X SDK (October 1, 2025)
-    - X SDK (October 15, 2025)
-    - 5+ prebuilt models for common use cases (November 1, 2025)
-    - Comprehensive documentation with 10+ tutorials (November 15, 2025)
-- Target: 100+ developers actively using tools by November 15, 2025
-
-### 🔗 Staking Ecosystem & DPoS (October 1 - November 30, 2025)
+### 🔗 Staking & Governance Implementation (October 15 - January 15, 2026)
 - Implement testnet validator staking with 100+ active validators
 - Develop and deploy Delegated Proof of Stake governance system
 - Economic simulation testing with 1,000+ virtual nodes
-- Target: Finalize token economic model by November 30, 2025
+- Target: Finalize token economic model by January 15, 2026
+- Community governance proposals: First 5 accepted and implemented by January 30, 2026
 
-### 🔧 Protocol Optimization & Auditing (October 15 - December 15, 2025)
-- Complete 3 independent security audits
-- Implement performance optimizations targeting 2x throughput
+### 🔧 Protocol Hardening & Security (November 1, 2025 - January 31, 2026)
+- Complete 3 independent security audits from top-tier firms
+- Implement performance optimizations targeting 2.5x throughput
 - Resolve 100% of critical and high-priority security issues
-- Target: Production-ready protocol by December 15, 2025
+- Target: Production-ready protocol by January 31, 2026
+- Bug bounty program: Launch with $250K pool (November 15, 2025)
 
-### 🎉 TGE & Token Distribution (December 2025)
-- Token Generation Event (December 15-31, 2025)
-- Airdrop program for early participants:
-    - 500+ validators receiving performance-based token allocation
-    - 100+ data providers based on quality and volume metrics
-    - 200+ developers based on contribution impact
-- Target: 5,000+ initial token holders by December 31, 2025
-
-### 🌍 Ecosystem Partnership Expansion (September - December 2025)
+### 🌍 Strategic Partnerships (October 15, 2025 - January 31, 2026)
 - Partnership development with key targets:
-    - Ocean Protocol for data marketplace integration (September 2025)
-    - Cheqd.io for self-sovereign identity (October 2025)
-    - AGI Alliance (Fetch.ai, SingularityNet) for AI interoperability (November 2025)
-- Host 3 major hackathons with Encode Club (September-December 2025)
-- Target: 10+ formal ecosystem partnerships by December 31, 2025
+  - Ocean Protocol for data marketplace integration (November 2025)
+  - Cheqd.io for self-sovereign identity (December 2025)
+  - AGI Alliance (Fetch.ai, SingularityNet) for AI interoperability (January 2026)
+- Host 2 major hackathons with Encode Club (October & January)
+- Target: 10+ formal ecosystem partnerships by January 31, 2026
+- Integration showcase event (January 15, 2026)
+
+### 🎉 TGE Preparation & Token Launch (January - February 2026)
+- Token Generation Event preparation (January 1-31, 2026)
+- Token launch and distribution (February 1-15, 2026)
+- Airdrop program for early participants:
+  - 500+ validators receiving performance-based token allocation
+  - 100+ data providers based on quality and volume metrics
+  - 200+ developers based on contribution impact
+- Target: 5,000+ initial token holders by February 15, 2026
+- Exchange listings: 3+ tier-1 DEXs at launch
+
 
 ## Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
 
