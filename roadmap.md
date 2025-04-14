@@ -2,37 +2,62 @@
 
 This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency.
 
-## Phase 1: Foundation & Initial Development (Q1 2024 - Q2 2025)
+## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
 ### 📄 Whitepaper Release (Completed Aug 2024)
-- ✓ Refined and expanded the Whitepaper to reflect the latest advancements in the Doctelligence protocol
-- ✓ Published technical architecture documentation and governance framework
+✓ Refined and expanded the Whitepaper to reflect the latest advancements in the Doctelligence protocol  
+✓ Published technical architecture documentation and governance framework
 
 ### 🧪 Prototype Development (Completed Mar 2024)
-- ✓ Deployed live prototypes on GitHub ([GitHub Link](https://github.com/doctelligence))
-- ✓ Conducted performance experiments on Oxford University computing clusters
-- ✓ Achieved 85% of targeted performance metrics for decentralized AI operations
+✓ **Live Prototype Deployed**: Implemented and tested core rewards functions with unit tests  
+🔗 [View on GitHub](https://github.com/Doctelligence/DIN-Prototype)
 
-### 📅 Strategic Industry Engagement (2024-2025)
-- ✓ Selected for speaker presentations with technical demonstrations at:
-    - RDI Berkeley (August 2024) - "Decentralized ML Training at Scale"
-    - ETH Denver (March 2025) - "Incentive Mechanisms for Federated Learning Networks"
-    - NYC's DeAI event (June 2025) - "Decentralized AI Infrastructure: Current Progress"
+✓ **Performance Simulations Conducted**: Ran extensive performance experiments using Oxford University's computing clusters  
+🔗 [Simulation Code on GitHub](https://github.com/Doctelligence/DIN-Protocol-Simulator)
 
-### In Progress
-- Publishing 2 technical papers on protocol architecture (April-May 2025)
-- Conducting 3 developer workshops (50+ participants each) at academic and industry events
+✓ **Metrics Achieved**: Reached **85% of targeted performance benchmarks** for decentralized AI operations, validating protocol scalability and efficiency
 
-### 🌐 Proof of Concept Development (April - May 31, 2025)
-- In Progress (30% complete) - Core protocol functions with unit tests
-- In Progress (10% complete) - Validator node implementation with basic incentive mechanisms
-- In Progress (0% complete) - Data provider integration APIs
-- Target: Functional PoC with 3+ test nodes by May 31, 2025
+### 📅 Strategic Industry Engagement (2024–2025)
 
-### ⚡ EVM Compatible Blockchain Integration (Q1-Q2 2025)
-- Evaluating 3 potential blockchain partners (Sei, EigenLayer, Optimism)
-- Technical integration documentation in development
-- Target: Partnership announcement by May 31, 2025
+Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
+
+✓ **RDI Berkeley – August 2024**  
+*Talk:* _"Decentralized ML Training at Scale"_  
+Selected from over 100+ applications focused on Decentralized AI (DeAI)  
+🔗 [Event Link](https://rdi.berkeley.edu/SBC2025/)
+
+✓ **ETHDenver – March 2025**  
+*Talk:* _"Incentive Mechanisms for Federated Learning Networks"_  
+Sponsored by EduDAO & Oxford Blockchain Society  
+🔗 [EduDAO](https://edudao.io) | [Oxford Blockchain Society](https://www.oxfordblockchain.xyz)  
+🔗 [Event Link](https://www.ethdenver.com/)
+
+✓ **Consensus 2025 – Attendance Confirmed**  
+Doctelligence team will officially attend [Consensus 2025](https://consensus2025.coindesk.com/)
+
+✓ **DeFiCon NYC – June 2025**  
+*Talk:* _"Decentralized AI Infrastructure"_  
+Officially confirmed speaker at a16z-sponsored event  
+🔗 [Event Link](https://deficonf.nyc)
+
+### 🔧 In Progress (June–August 2025)
+✓ 📄 Publishing 2 technical papers on protocol architecture (April–May 2025)  
+🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
+🔗 [Whitepaper (v2)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+
+✓ 👥 Conducting 3 developer workshops (50+ participants each)  
+Locations: Oxford, Berkeley, and additional academic/industry venues
+
+### 🌐 Proof of Concept Development (April – May 31, 2025)
+✓ In Progress (30% complete) – Core protocol functions with unit tests  
+✓ In Progress (10% complete) – Validator node implementation with basic incentive mechanisms  
+✓ In Progress (5% complete) – Data provider integration APIs  
+✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
+
+### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
+✓ Evaluating 3 potential EVM-compatible blockchain partners: Sei, EigenLayer, Optimism  
+✓ Technical integration documentation in development  
+✓ **Target:** Partnership announcement by **May 31, 2025**
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
