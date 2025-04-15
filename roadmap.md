@@ -22,7 +22,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 **Q2 2026** [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion  
 
 **Legend:**  
-[████] Complete [▒▒▒▒] In Progress [░░░░] Planned
+[████] Complete [▒▒▒▒] In Progress [░░░░] Planned
 
 ---
 
