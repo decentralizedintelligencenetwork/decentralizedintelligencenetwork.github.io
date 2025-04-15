@@ -211,94 +211,88 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - DEX listing at launch and 2+ tier-1 exchange listings by February 28, 2026
 - Distribute tokens to all qualifying participants by February 15, 2026
 
-## Phase 4: Mainnet Deployment & Decentralization *(Q1-Q2 2026)*
+# Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
 
-### Phase 4 KPI Dashboard (Q1-Q2 2026)
+## Phase 4 KPI Dashboard
 
-#### Network Performance
+### Network Performance
 - Mainnet Uptime: 99.9%+ (Target: 99.95%)
 - Active Validators: 1,000+ (Target: 1,200+)
 - Transaction Volume: Growing 20%+ monthly (Target: 25%+)
 - FL Models Deployed: 50+ (Target: 75+)
 
-#### Ecosystem Metrics
+### Ecosystem Metrics
 - Sector Ecosystems: 500+ per sector (Target: 600+)
 - Monthly Active Users: Growing 15%+ monthly (Target: 20%+)
 - Partnership Engagement: 10%+ monthly growth (Target: 15%+)
 - Enterprise Adoptions: 2+ (Target: 5+)
 
-#### Governance & Economics
+### Governance & Economics
 - DAO Control: 75%+ (Target: 85%+)
 - Value Accrual Mechanisms: All implemented and functioning
 - Token Utility Metrics: Positive growth across all KPIs
 
-### 🖥️ Mainnet Launch *(January 1 - March 31, 2026)*  
-▢ Phased deployment schedule:  
-  - **Critical infrastructure** *(January 15, 2026)*  
-  - **Core functionality** *(February 15, 2026)*  
-  - **Full feature set** *(March 31, 2026)*  
-**Target:** Complete phased deployment with **1,000+ active validators** by **March 31, 2026**.
+## Mainnet Launch (January 1 - March 31, 2026)
 
-▢ **Network fee structure** implementation with projected revenue model  
-  - Value accrual mechanism: **70% of network fees distributed to validators**, **20% to treasury**, **10% to public goods**  
-**Target:** Finalize and deploy network fee structure with a **revenue model** in place by **March 31, 2026**.
+**Phased Deployment Schedule**
+- Critical infrastructure (January 15, 2026)
+- Core functionality (February 15, 2026)
+- Full feature set (March 31, 2026)
+- Target: Complete phased deployment with 1,000+ active validators by March 31, 2026
 
-### 🏛️ Governance & Ownership Decentralization *(Q1-Q2 2026)*  
-▢ **DAO establishment** *(January 2026)*  
-▢ **Governance framework implementation** *(February 2026)*  
-▢ **First community improvement proposals** *(March 2026)*  
-**Target:** Transfer **75% of protocol control** to DAO by **June 30, 2026**.
+**Network Fee Structure**
+- Value accrual mechanism: 70% of network fees distributed to validators, 20% to treasury, 10% to public goods
+- Target: Finalize and deploy network fee structure with a revenue model in place by March 31, 2026
 
-### 🌍 AI for Decentralized Networks *(Q1–Q2 2026)*  
-▢ **Integrate decentralized data ownership models** across key sectors:  
-  - **Healthcare, DeSci, smart cities, agritech, education, and DePIN**  
-  - **500 active data ecosystems** per sector  
-  - Refine models and scale with real-world use cases  
-**Target:** Onboard **500+ active data ecosystems per sector** with **real-world applications** by **June 30, 2026**.
+## Governance & Ownership Decentralization (Q1-Q2 2026)
 
-▢ **Targeted Community Engagement**:  
-  - Drive **10% monthly growth** in platform engagement for blockchain partners  
-  - Present at **3 industry events** to secure **5+ key partnerships**  
-**Target:** Achieve **10% monthly growth** in engagement and secure **5+ strategic partnerships** by **June 30, 2026**.
+**Key Milestones**
+- DAO establishment (January 2026)
+- Governance framework implementation (February 2026)
+- First community improvement proposals (March 2026)
+- Target: Transfer 75% of protocol control to DAO by June 30, 2026
 
-▢ **Launch enterprise private side chains** for centralized enterprises  
-  - Expand **mainnet implementations**  
-  - Secure **Phase 2 funding**  
-**Target:** Deploy **2+ enterprise private side chains** and achieve **50% expansion in mainnet implementations** by **June 2026**.
+## AI for Decentralized Networks (Q1–Q2 2026)
 
-### 💸 Token Economics & Value Accrual *(Throughout 2026)*  
-▢ **Value accrual mechanisms**:  
-  - **Transaction fees** from network usage (30% of total value)  
-  - **Staking rewards** from network security (40% of total value)  
-  - **Service fees** from FL model marketplace dApps (30% of total value)  
-**Target:** Achieve **sustainable tokenomics** with **demonstrable utility value** by **June 30, 2026**.
+**Data Ownership Integration**
+- Integrate decentralized data ownership models across key sectors:
+  - Healthcare, DeSci, smart cities, agritech, education, and DePIN
+  - 500 active data ecosystems per sector
+  - Refine models and scale with real-world use cases
+- Target: Onboard 500+ active data ecosystems per sector with real-world applications by June 30, 2026
 
-▢ **Quarterly buyback & burn program** based on network revenue  
-**Target:** Implement buyback & burn program by **Q2 2026** with **regular reporting** of network revenue metrics.
+**Targeted Community Engagement**
+- Drive 10% monthly growth in platform engagement for blockchain partners
+- Present at 3 industry events to secure 5+ key partnerships
+- Target: Achieve 10% monthly growth in engagement and secure 5+ strategic partnerships by June 30, 2026
 
-▢ **KPIs**:  
-  - **Monthly active users**  
-  - **Transaction volume**  
-  - **Token velocity metrics**  
-**Target:** Track and report on **monthly active users**, **transaction volume**, and **token velocity** metrics with **clear growth benchmarks** starting by **March 2026**.
+**Enterprise Integration**
+- Launch enterprise private side chains for centralized enterprises
+- Expand mainnet implementations
+- Secure Phase 2 funding
+- Target: Deploy 2+ enterprise private side chains and achieve 50% expansion in mainnet implementations by June 2026
 
-### 🌱 Long-Term Sustainability Strategy (Q1-Q2 2026)
+## Token Economics & Value Accrual (Throughout 2026)
 
-▢ **Treasury Management**
-  - Establish multi-signature treasury managed by Foundation and DAO representatives
-  - Implement diversification strategy (stablecoins, ETH, BTC)
-  - Create 3-year financial runway plan with various market scenarios
-**Target:** Secure 3+ year financial runway regardless of market conditions by Q2 2026.
+**Value Accrual Mechanisms**
+- Transaction fees from network usage (30% of total value)
+- Staking rewards from network security (40% of total value)
+- Service fees from FL model marketplace dApps (30% of total value)
+- Target: Achieve sustainable tokenomics with demonstrable utility value by June 30, 2026
 
-▢ **Revenue Diversification**
-  - Network transaction fees (core)
-  - Enterprise partnership program (growth)
-  - Data marketplace commission (expansion)
-  - Premium service offerings (future)
-**Target:** Achieve balanced revenue mix with no single source exceeding 50% by Q2 2026.
+**Buyback & Burn Program**
+- Target: Implement quarterly buyback & burn program by Q2 2026 with regular reporting of network revenue metrics
 
-▢ **Community-Led Growth**
-  - Transition 80% of development decisions to community governance
-  - Implement quadratic funding for ecosystem grants
-  - Establish ambassador program in 10+ key regions
-**Target:** Create self-sustaining ecosystem with minimal centralized support by Q2 2026.
+**Performance Metrics**
+- Monthly active users
+- Transaction volume
+- Token velocity metrics
+- Target: Track and report on all metrics with clear growth benchmarks starting by March 2026
+
+## Long-Term Sustainability Strategy (Q1-Q2 2026)
+
+**Treasury:** Multi-sig treasury (Foundation+DAO), diversified assets (stables/ETH/BTC), 5-year runway plan. *Target: 5+ year runway by Q2 '26*
+
+**Revenue:** Network fees (core), enterprise partnerships (growth), marketplace commission (expansion), private-chain enterprise services (future). *Target: No source revenue >50% by Q2 '26*
+
+**Community:** 80% community governance, quadratic funding for grants, 10+ regional ambassadors. *Target: Self-sustaining ecosystem by Q2 '26*
