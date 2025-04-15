@@ -48,7 +48,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
 - Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case (current)
-(-) Functional PoC with 3+ validator test nodes  (-)
+- Functional PoC with 3+ validator test nodes  (-)
 - Technical integration documentation for EVM-compatible blockchain partners (-)
 - Target partnership announcement by May 31, 2025 (-)
 
@@ -102,6 +102,12 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 - Launch $250K bug bounty, resolve 90% of high-priority bugs with 100+ security researchers (-)
 - Achieve 100% protocol stability for mainnet transition by Jan 31, 2026 (-)
 
+### ⚙️ Advanced User Experience & Developer Tools (Q4 2025 – Q1 2026)
+
+- Complete API documentation, validator setup guide, and FL model integration by Dec 31, 2025 (-)
+- Release Python, JavaScript, and Rust SDKs, CLI tool for validator management, and VS Code extension by Jan 31, 2026 (-)  
+- Target: 95%+ documentation coverage and 500+ SDK downloads by Jan 31, 2026 (-)
+
 ### 🤝 Strategic Partnerships (Q4 2025 – Q1 2026)
 
 **Key Partnerships & Community Activatio**
@@ -110,18 +116,6 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 - Host 2 Encode Club hackathons (October '25, January '26) (-)
 - Drive DeSci collaborations on data sovereignty (-)
 - Target: 200+ participants at each hackathon and 5+ cross-protocol integrations (-)
-
-### 🔑 Regulatory Compliance Strategy (Q4 2025 - Q1 2026)
-
-- Complete Swiss Foundation structure and token classification legal opinions in 5 jurisdictions by Dec 31, 2025 (-)
-- GDPR-compliant data handling and privacy-preserving federated learning documentation for EU, US, and APAC (-)
-- Target: Compliance certification in 3+ jurisdictions by Jan 31, 2026 (-)
-
-### ⚙️ Advanced User Experience & Developer Tools (Q4 2025 – Q1 2026)
-
-- Complete API documentation, validator setup guide, and FL model integration by Dec 31, 2025 (-)
-- Release Python, JavaScript, and Rust SDKs, CLI tool for validator management, and VS Code extension by Jan 31, 2026 (-)  
-- Target: 95%+ documentation coverage and 500+ SDK downloads by Jan 31, 2026 (-)
 
 ### 💎 TGE Preparation & Token Launch (Q1 2026)
 
@@ -144,16 +138,15 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 - Transfer 75% of protocol control to DAO by June 30, 2026 (-)
 - Target: Secure 85% DAO control, implement value accrual mechanisms, and maintain positive growth in token utility metrics. (-)
 
-
 ### 🤖 AI for Decentralized Networks (Q1–Q2 2026)
 
-- Onboard 500+ active data ecosystems per sector (Healthcare, DeSci, smart cities, agritech, education, DePIN) by June 30, 2026 (-)
+- Onboard 500+ active data ecosystems across sectors ( DeSci, Healthcare, DePIN, Smart Cities, Agritech, Etc) by June 30, 2026 (-)
 - Achieve 10% monthly growth in engagement and secure 5+ key partnerships by June 30, 2026 (-)
 - Launch 2+ private enterprise side chains and expand mainnet implementations by June 30, 2026 (-)
 
 ### 💰 Token Economics & Value Accrual (Throughout 2026)
 
-- Achieve sustainable tokenomics with demonstrable utility value by June 30, 2026 (-)
+- Achieve sustainable tokenomics with network useage driving protocol fees utility value by June 30, 2026 (-)
 - Implement quarterly buyback & burn program by Q2 2026 with regular reporting of network revenue metrics (-)
 - Track and report on monthly active users, transaction volume, and token velocity metrics starting by March 2026 (-)
   
