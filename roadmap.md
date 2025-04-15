@@ -58,10 +58,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **Cosmos Institute (May '25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute |
 | **DeFiCon NYC (June '25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
-### 🏛️ Grant Funding *(Phase 1 Funding – March 2025)*
-▢ Secure fast grant from Cosmos Institute [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) 
-✓ - **Target:** Secure next **grant awards** totaling **$5,000** to support PoC development and R&D.
-
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
 (-) Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case.
 ✓ - **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
