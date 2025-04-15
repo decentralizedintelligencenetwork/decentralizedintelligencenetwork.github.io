@@ -156,13 +156,11 @@ Doctelligence is actively engaging with leading academic and industry communitie
 **Production Readiness**
 - Target: 100% protocol stability and performance optimization for mainnet transition by January 31, 2026
 
-### Strategic Partnerships (Q4 2025 – Q1 2026)
+### 🤝 Strategic Partnerships (Q4 2025 – Q1 2026)
 
-**Key Partnerships**
+**Key Partnerships & Community Activatio**
 - Decentralized AI/FL & Data: GoKiteAI, Sentient Foundation, Protocol Labs, AGI Alliance, Vana/Ora/Sherpa.ai
 - Target: Secure 10+ strategic EVM/AI partnerships by January 2026
-
-**Community Activation**
 - Host 2 Encode Club hackathons (October '25, January '26)
 - Drive DeSci collaborations on data sovereignty
 - Target: 200+ participants at each hackathon and 5+ cross-protocol integrations
