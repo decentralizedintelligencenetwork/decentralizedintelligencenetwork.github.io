@@ -18,37 +18,21 @@ To create a decentralized infrastructure for secure, collaborative AI developmen
 3. **Q4 2025:** Protocol Hardening & Security Audits (Jan 31, 2026)
 4. **Q1 2026:** Token Generation Event & Mainnet Launch (Mar 31, 2026)
 
-## Doctelligence Timeline (Q1 2024 - Q2 2026)
+## Doctelligence Timeline (Q1 2024 – Q2 2026)
 
-Q1 2024 [████████████] Oxford CS Department: Blockchain-FL Protocol Research
-Q2 2024 [████████████] Prototype & Simulation Experiments Released
-Q3 2024 [████████████] Whitepaper Release & Publications 
-Q4 2024 [████████████] Strategic Academic & Industry Engagement 
-Q1 2025 [████████████] Decentralized Team Formation & Early Collaborations | Cosmos Institute
-Q2 2025 [▒▒▒▒▒▒▒▒▒▒▒▒] PoC Development + EVM (Blockchain) Ecosystem Integration| Grants + Angel Investment
-Q3 2025 [░░░░░░░░░░░░] Testnet Development | Community Building  
-Q4 2025 [░░░░░░░░░░░░] Advanced Testnet | Security Audits   
-Q1 2026 [░░░░░░░░░░░░] TGE Preparation | Mainnet Launch   
-Q2 2026 [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion 
+**Q1 2024** [████████████] Oxford CS Department: Blockchain-FL Protocol Research  
+**Q2 2024** [████████████] Prototype & Simulation Experiments Released  
+**Q3 2024** [████████████] Whitepaper Release & Publications  
+**Q4 2024** [████████████] Strategic Academic & Industry Engagement  
+**Q1 2025** [████████████] Decentralized Team Formation & Early Collaborations | Cosmos Institute  
+**Q2 2025** [▒▒▒▒▒▒▒▒▒▒▒▒] PoC Development + EVM Ecosystem Integration | Grants & Angel Investment  
+**Q3 2025** [░░░░░░░░░░░░] Testnet Development | Community Building  
+**Q4 2025** [░░░░░░░░░░░░] Advanced Testnet | Security Audits  
+**Q1 2026** [░░░░░░░░░░░░] TGE Preparation | Mainnet Launch  
+**Q2 2026** [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion  
 
-Legend: [████] Complete [▒▒▒▒] In Progress [░░░░] Planned
-
-
-
-## Doctelligence Timeline (Q1 2024 - Q2 2026)
-
-Q1 2024 [████████████] Prototype & Simulation  
-Q2 2024 [████████████] Strategic Academic Engagement  
-Q3 2024 [████████████] Whitepaper Release  
-Q4 2024 [████████████] Strategic Academic Engagement  
-Q1 2025 [████████████] PoC Development | Academic Engagement  
-Q2 2025 [▒▒▒▒▒▒▒▒▒▒▒▒] EVM Integration | Angel Investment  
-Q3 2025 [░░░░░░░░░░░░] Testnet Development | Community Building  
-Q4 2025 [░░░░░░░░░░░░] Advanced Testnet | Security Audits  
-Q1 2026 [░░░░░░░░░░░░] TGE Preparation | Mainnet Launch  
-Q2 2026 [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion  
-
-Legend: [████] Complete [▒▒▒▒] In Progress [░░░░] Planned
+**Legend:**  
+[████] Complete [▒▒▒▒] In Progress [░░░░] Planned  
 
 ## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
