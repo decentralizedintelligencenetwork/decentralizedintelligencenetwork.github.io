@@ -159,7 +159,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ### Strategic Partnerships (Q4 2025 – Q1 2026)
 
 **Key Partnerships**
-- EVM Ecosystems: Sei, Optimism, Arbitrum, Polygon, zkSync, Base
 - Decentralized AI/FL & Data: GoKiteAI, Sentient Foundation, Protocol Labs, AGI Alliance, Vana/Ora/Sherpa.ai
 - Target: Secure 10+ strategic EVM/AI partnerships by January 2026
 
