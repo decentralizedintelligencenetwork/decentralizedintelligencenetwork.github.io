@@ -9,16 +9,16 @@ intro_image_hide_on_mobile: true
 
 This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency. 
 
-### Mission
+### 🎯 Mission
 - To create a decentralized infrastructure for secure, collaborative AI development with user-owned data.
 
-### Critical Path Milestones
+### 🗺️ Critical Path Milestones
 1. **Q2 2025:** Proof of Concept & EVM Partner Selection (May 31, 2025)
 2. **Q3 2025:** Testnet with 100+ Nodes & FL Integration (Sep 15, 2025)
 3. **Q4 2025:** Protocol Hardening & Security Audits (Jan 31, 2026)
 4. **Q1 2026:** Token Generation Event & Mainnet Launch (Mar 31, 2026)
 
-## Doctelligence Timeline (Q1 2024 – Q2 2026)
+## 🗓️ Doctelligence Timeline (Q1 2024 – Q2 2026)
 
 **Q1 2024** [████████████] Oxford CS Department: Blockchain-FL Protocol Research  
 **Q2 2024** [████████████] Prototype & Simulation Experiments Released  
@@ -34,7 +34,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 **Legend:**  
 [████] Complete [▒▒▒▒] In Progress [░░░░] Planned  
 
-## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
+## 🏗️ Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
 ### 📄 Whitepaper Release (Completed Aug 2024)
 ✓ Refined and expanded the Whitepaper to reflect the latest advancements in the Doctelligence protocol  
@@ -66,7 +66,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
 ✓ - **Target:** Partnership announcement by May 31, 2025
 
-## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
+## 🚧 Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
 ### 🚀 Testnet Development (June 15 - September 30, 2025)
 
@@ -84,7 +84,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - Initial security assessment completion by September 30, 2025
 - Target: 95%+ uptime with 80%+ success rate for federated learning rounds
 
-### Early Data & AI Integration (July 15 - September 30, 2025)
+### 🧠 Early Data & AI Integration (July 15 - September 30, 2025)
 
 **Co-development Ecosystem Partners**
 - Collaborate with SOLID (Jesse, Lead), EVM-Compatible Blockchain, Flower Labs (Javier, CSO), and OpenMined
@@ -103,15 +103,15 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - Host 1 hackathon with Encode Club (September 1-15, 2025)
 - Target: Achieve 300+ attendees for the hackathon and 50+ completed projects
 
-## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
+## 🧩 Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
 
-### 🎯 KPI Technical Performance
+### 📊 KPI Technical Performance
 - Advanced Testnet Uptime: 95%+ (Target: 98%)
 - FL Model Support: 10+ concurrent models (Target: 15+)
 - Network Stability Under Load: 99% (Target: 99.5%)
 - Security Audit Completion: 100% critical issues resolved
 
-### Advanced Testnet Deployment (October 1 - December 15, 2025)
+### 🧱 Advanced Testnet Deployment (October 1 - December 15, 2025)
 
 **Feature-complete Testnet**
 - Target: 95%+ uptime with 500+ active nodes and 80%+ user satisfaction
@@ -126,7 +126,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 **Stress Testing** (November 15 - December 15, 2025)
 - Target: Complete stress testing with 1,000+ virtual nodes and achieve 99% network stability under load
 
-### Staking & Governance Implementation (October 15 - January 15, 2026)
+### 🛡️ Staking & Governance Implementation (October 15 - January 15, 2026)
 
 **Validator Staking**
 - Implement testnet validator staking with 100+ active validators
@@ -168,7 +168,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - Drive DeSci collaborations on data sovereignty
 - Target: 200+ participants at each hackathon and 5+ cross-protocol integrations
 
-### Regulatory Compliance Strategy (Q4 2025 - Q1 2026)
+### 🔑 Regulatory Compliance Strategy (Q4 2025 - Q1 2026)
 
 **Legal Framework** (Q4 2025)
 - Swiss Foundation structure fully operational
