@@ -28,12 +28,12 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 ✓ Published technical architecture documentation and governance framework
 
 ### 🧪 Prototype & Simulation  
-**✅ Completed – March 2024**  
+✓ Completed – March 2024
 - **Live Prototype Launched** with core rewards logic  
   🔗 [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype)  
 - **Performance Simulations** run at Oxford University  
   🔗 [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator)  
-- 📊 **Achieved:** 99% of target performance benchmarks for decentralized operations
+- **Achieved:** 99% of target performance benchmarks for decentralized operations
 
 ---
 
@@ -72,19 +72,19 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
 ### 💰 Phase 2 Funding (June 2025)
-- Secure $1.2M in grants and angel funding by May 31, 2025
+- Secure grants funding by May 31, 2025
 - Applications submitted to 5+ blockchain/AI grant programs (Edge City - April 20th, remainder confidential)
 - **Critical Milestone**: Funding must be secured to gate Phase 2 activities
 
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 - **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
   - Initial protocol implementation with basic functionality
-  - Performance goal: X
-  - Latency goal: X average for federated model updates
+  - Performance goal: 1-2 federated learning rounds/hour
+  - Latency goal: <1 second average for federated model updates
 - **Beta Testnet**: Expand to 100+ validator nodes by September 15, 2025
   - Enhanced functionality and improved stability
-  - Performance goal: X
-  - Latency goal: X average for federated model updates
+  - Performance goal: 2-5 federated learning rounds/hour
+  - Latency goal: <500 ms average for federated model updates
 - Initial security assessment completion by September 30, 2025
 
 ### 👩‍💻 Core Team Support (June 15 - September 30, 2025)
@@ -117,7 +117,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
 
 ### 💰 Phase 3 Funding (October 2025)
-- $3–5M angel round to fund protocol dev & Testnet → Mainnet transition
+- Angel round to fund protocol dev & Testnet → Mainnet transition
 - Swiss foundation establishment (Geneva) by September 15, 2025
 - Allocation structure: <20% to insiders with two private rounds
   - Primary round: October 1-15, 2025
