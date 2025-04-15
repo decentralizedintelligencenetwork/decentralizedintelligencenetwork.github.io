@@ -33,8 +33,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ### 🧪 Prototype & Simulation (Completed Mar 2024)
 - Live Prototype Launched with core rewards logic [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype) (✓)
-- Performance Simulations run at Oxford University ARC [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator) (✓) 
-- 99% of target performance benchmarks for decentralized operations (✓)
+- Performance simulations at Oxford ARC meet 99% of decentralized operations benchmarks [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator) (✓) 
 
 ### 📅 Strategic Academic & Industry Engagement (2024–2025)
 
