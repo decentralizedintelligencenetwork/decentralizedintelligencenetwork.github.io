@@ -72,12 +72,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
-### 🏛️ Grant Funding *(Phase 2 Funding – June 2025)*
-▢ Submit applications to 5+ blockchain/AI grant programs  
-  • *Edge City – Submitted April 20th*  
-  • *Remaining programs – Confidential*  
-**Target:** Secure next **grant awards** totaling **$200,000** to support infrastructure and R&D.
-
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 ▢ **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
   - Initial protocol implementation with basic functionality
@@ -91,10 +85,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
   - Latency goal: <500 ms average for federated model updates
 - Initial security assessment completion by September 30, 2025
 **Target:** Achieve **95%+ uptime** for Beta Testnet with **80%+ success rate** for federated learning rounds by September 15, 2025.
-
-### 🧑‍💼 Angel Investment (Phase 2 Funding – June 2025)
-▢ Raise $1.2M from angel investors by May 31, 2025
-Target: Secure 100% of $1.2M in angel funding by May 31, 2025.
 
 ### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
 ▢ Engage co-development ecosystem partners for integration support:
@@ -132,24 +122,6 @@ Target: Secure 100% of $1.2M in angel funding by May 31, 2025.
 - FL Model Support: 10+ concurrent models (Target: 15+)
 - Network Stability Under Load: 99% (Target: 99.5%)
 - Security Audit Completion: 100% critical issues resolved
-
-### 💰 Phase 3 Funding (October 2025)
-▢ Raise $3-5M in private round to fund protocol development & Testnet → Mainnet transition
-
-- Swiss Foundation establishment (Geneva) by September 15, 2025
-- Insider allocation: <20% to insiders with two private rounds of 7.5% allocated to insider investors
-
-- Private Round 1: 5% allocated to insider investors (October 1–15, 2025)
-- Private Round 2: 2.5% conditionally reserved as a risk buffer
-- **Target**: Secure 100% of $3-5M by October 15, 2025, ensuring foundation establishment and team expansion.
-
-▢ **Core Team Expansion**: Funding allocated to strategic hiring  
-  - 3 Blockchain developers with **EVM expertise** and distributed systems background  
-  - 2 Federated learning engineers with systems mechanics background  
-  - 1 UX designer for **Testnet/Mainnet interface environments**  
-  - 1 Community manager with proven growth metrics  
-  - **Onboarding program implementation** by **November 15, 2025**  
-**Target:** Hire and onboard all core team members by **November 30, 2025**, with onboarding materials and training in place.
 
 ### 🚀 Advanced Testnet Deployment *(October 1 - December 15, 2025)*  
 ▢ **Feature-complete testnet** with **500+ nodes** by **December 15, 2025**  
