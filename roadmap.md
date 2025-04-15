@@ -152,14 +152,10 @@ Doctelligence is actively engaging with leading academic and industry communitie
 
 ## 🚀 Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
 
-- Achieve 100% uptime, 1,200+ active validators, 25% monthly growth in transaction volume, and 75+ federated learning models deployed.
-- Reach 600+ active sector ecosystems, 20% monthly growth in active users, and 5+ enterprise adoptions.
-- Secure 85% DAO control, implement value accrual mechanisms, and maintain positive growth in token utility metrics.
-
 ### 🌐 Mainnet Launch (January 1 - March 31, 2026)
 
 - Phased deployment of critical infrastructure (Jan 15, 2026), core functionality (Feb 15, 2026), and full feature set (Mar 31, 2026)  
-- Target: 1,000+ active validators by Mar 31, 2026  
+- Target: Achieve 100% uptime, 1,200+ active validators, 25% monthly growth in transaction volume, and 75+ federated learning models deployed by Mar 31, 2026  
 - Finalize network fee structure: 70% to validators, 20% to treasury, 10% to public goods by Mar 31, 2026
 
 ### ⚖️ Governance & Ownership Decentralization (Q1-Q2 2026)
@@ -167,6 +163,8 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - Establish DAO and implement governance framework by February 2026
 - Launch first community improvement proposals by March 2026
 - Transfer 75% of protocol control to DAO by June 30, 2026
+- Target: Secure 85% DAO control, implement value accrual mechanisms, and maintain positive growth in token utility metrics.
+
 
 ### 🤖 AI for Decentralized Networks (Q1–Q2 2026)
 
