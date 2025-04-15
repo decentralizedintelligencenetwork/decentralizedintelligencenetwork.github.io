@@ -37,7 +37,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
 | **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
-- In Progress (June–August 2025)
 ✓ 📄 Publishing 2 technical papers on protocol architecture (April–May 2025)  
 🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
 🔗 [Whitepaper (v2)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
