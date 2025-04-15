@@ -9,15 +9,6 @@ intro_image_hide_on_mobile: true
 
 This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency. 
 
-### 🎯 Mission
-- To create a decentralized infrastructure for secure, collaborative AI development with user-owned data.
-
-### 🗺️ Critical Path Milestones
-1. **Q2 2025:** Proof of Concept & EVM Partner Selection (May 31, 2025)
-2. **Q3 2025:** Testnet with 100+ Nodes & FL Integration (Sep 15, 2025)
-3. **Q4 2025:** Protocol Hardening & Security Audits (Jan 31, 2026)
-4. **Q1 2026:** Token Generation Event & Mainnet Launch (Mar 31, 2026)
-
 ## 🗓️ Doctelligence Timeline (Q1 2024 – Q2 2026)
 
 **Q1 2024** [████████████] Oxford CS Department: Blockchain-FL Protocol Research  
