@@ -46,10 +46,8 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ 👥 Participating in 3 developer workshops (50+ participants each)  
 Locations: Oxford, Berkeley, and additional academic/industry venues
 
-### 🌐 Proof of Concept Development (April – May 31, 2025)
-✓ In Progress (30% complete) – Core protocol functions with unit tests  
-✓ In Progress (10% complete) – Validator node implementation with basic incentive mechanisms  
-✓ In Progress (5% complete) – Data provider integration APIs  
+### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
+Core Protocol Functions ✓ · Validator Node (Incentives) ✓ · Data Provider APIs ✓
 ✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
 
 ### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
