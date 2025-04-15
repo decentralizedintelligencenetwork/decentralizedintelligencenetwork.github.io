@@ -46,9 +46,9 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 | **DeFiCon NYC (June '25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
-- Execute core orchestration protocol functions for aggregation, coordination, and incentive mechanisms. (current)
+- Core protocol functions for aggregation, coordination, and incentive mechanisms. (*Current)
+- Integrate EVM-compatible blockchain SC tailoring for seamless integration.  (*Current)
 - Functional PoC with 3+ validator test nodes with DeSci health dataset use case (-)
-- Integrate EVM-compatible blockchain SC tailoring for seamless integration.  (-)
 
 ## 🚧 Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
