@@ -79,20 +79,26 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ - Review and finalize the pre-prepared Phase 3 hiring plan (Completed), with an accompanying month-by-month budget and burn sheet, and fully prepared 18-month development and 3-year strategic roadmaps. (**Completed**).
 **Target:** Secure **3+ strategic partnerships** with co-development partners by September 30, 2025.
 
-### 🤖 Early Data & AI Integration (July 15 - September 30, 2025)
-▢ SOLID Integration (July 15 - August 15): Deploy 100+ data pods with 1,000+ sample records  
-    - Led by tech advisor & SOLID lead Jesse Wright (Oxford)
+### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
+
+▢ **SOLID Integration** *(July 15 - August 15)*: Deploy **100+ data pods** with **1,000+ sample records**  
+  - Led by tech advisor & SOLID lead **Jesse Wright** (Oxford)  
+**Target:** Deploy **100+ data pods** with **1,000+ sample records** by **August 15, 2025**.
+
 ▢ **OpenMined & Flower Labs** *(August 15 - September 30)*: Implement **2 federated learning models** with **50+ participants**  
-**Target:** Integrate **2 federated learning models** with **75+ participants** by September 30, 2025.
+**Target:** Integrate **2 federated learning models** with **75+ participants** by **September 30, 2025**.
+
 ▢ **DesSc Partnership Program Launch** *(September 1)*: Secure **3+ ecosystem partnerships** with aligned projects  
-**Target:** Establish **3+ formal partnerships** with aligned AI and data science projects by September 30, 2025.
+**Target:** Establish **3+ formal partnerships** with aligned **AI** and **data science** projects by **September 30, 2025**.
 
 ### 📅 Community Building *(June 15 - September 30, 2025)*
 ▢ Grow **developer community** to **50+ active members**  
 **Target:** Reach **100+ active members** by **September 30, 2025**
+
 ▢ Achieve **5,000+ social media followers**  
   - 100+ active testnet participants  
 **Target:** Increase social media following to **8,000+** and **500+ active testnet participants** by September 30, 2025.
+
 ▢ Key activities:  
   - **2 technical workshops** at DeSci/ETHGlobal events  
   - Bi-weekly **developer office hours** starting **July 1, 2025**  
