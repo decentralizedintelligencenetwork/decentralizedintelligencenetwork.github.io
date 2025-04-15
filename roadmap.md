@@ -37,12 +37,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
 | **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
-✓ 📄 Publishing 2 technical papers on protocol architecture (April–May 2025)  
-🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
-🔗 [Whitepaper (v2)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
-✓ 👥 Participating in 3 developer workshops (50+ participants each)  
-✓ Oxford, Berkeley, and additional academic/industry venues (**active**)
-
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
 Core Protocol Functions ✓ · Validator Node (Incentives) ✓ · Data Provider APIs ✓
 ✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
@@ -89,7 +83,7 @@ Core Protocol Functions ✓ · Validator Node (Incentives) ✓ · Data Provider 
 ### 📅 Community Building (June 15 - September 30, 2025)
 - Target metrics:
   - Grow developer community to 50+ active members
-  - Achieve 3,000+ social media followers
+  - Achieve 5,000+ social media followers
   - 100+ active testnet participants
 - Key activities:
   - 2 technical workshops at DeSci/ETHGlobal events
