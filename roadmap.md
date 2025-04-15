@@ -54,10 +54,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 (-) Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case.
 ✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
 
-### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
-✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
-✓ **Target:** Partnership announcement by May 31, 2025
-
 | 📅 Event | 🗣️ Talk Title / Role | 🔗 Links | 🏷️ Sponsored By |
 |---------|------------------------|----------|------------------|
 | **RDI Berkeley (Aug '24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) | Oxford CS Department |
@@ -65,6 +61,10 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **Consensus 2025** | Attendance Confirmed | [Consensus](https://consensus2025.coindesk.com) | EduDAO |
 | **Cosmos Institute (May '25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
 | **DeFiCon NYC (June '25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
+
+### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
+✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
+✓ **Target:** Partnership announcement by May 31, 2025
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
