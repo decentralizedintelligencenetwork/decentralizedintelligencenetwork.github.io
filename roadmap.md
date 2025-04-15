@@ -15,7 +15,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 **Q2 2024** [████████████] Prototype & Simulation Experiments Released  
 **Q3 2024** [████████████] Whitepaper Release & Publications  
 **Q4 2024** [████████████] Strategic Academic & Industry Engagement  
-**Q1 2025** [████████████] Decentralized Team Formation & Early Collaborations | Cosmos Institute  
+**Q1 2025** [████████████] Decentralized Team & Early Collaborations | Cosmos Institute  
 **Q2 2025** [▒▒▒▒▒▒▒▒▒▒▒▒] PoC Development + EVM Ecosystem Integration | Grants & Angel Investment  
 **Q3 2025** [░░░░░░░░░░░░] Testnet Development | Community Building  
 **Q4 2025** [░░░░░░░░░░░░] Advanced Testnet | Security Audits  
