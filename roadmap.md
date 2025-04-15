@@ -35,11 +35,9 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 ✓ Completed – March 2024
 ✓ Live Prototype Launched with core rewards logic [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype)  
 ✓ Performance Simulations run at Oxford University ARC [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator) 
-- **Achieved:** 99% of target performance benchmarks for decentralized operations
+✓ 99% of target performance benchmarks for decentralized operations
 
 ### 📅 Strategic Academic & Industry Engagement (2024–2025)
-
-Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
 
 | 📅 Event | 🗣️ Talk Title / Role | 🔗 Links | 🏷️ Sponsored By |
 |---------|------------------------|----------|------------------|
@@ -51,11 +49,11 @@ Doctelligence is actively engaging with leading academic and industry communitie
 
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
 (-) Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case.
-✓ - **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
+(-) Functional PoC with 3+ test nodes by **May 31, 2025**
 
 ### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
-✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
-✓ - **Target:** Partnership announcement by May 31, 2025
+(-) Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
+(-) Target partnership announcement by May 31, 2025
 
 ## 🚧 Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
