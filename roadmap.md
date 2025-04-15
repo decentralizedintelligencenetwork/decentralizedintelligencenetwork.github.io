@@ -9,18 +9,6 @@ intro_image_hide_on_mobile: true
 
 This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency.
 
-## 🚀 At a Glance: Key Roadmap Highlights
-
-### Project Phases & Milestones
-
-| **Phase**   | **Dates**           | **Major Milestones**                                                                                     |
-|-------------|---------------------|----------------------------------------------------------------------------------------------------------|
-| **Phase 1** | **Q1 2024 – Q2 2025** | - Prototype Deployed <br> - Whitepaper Released <br> - PoC in Progress <br> - Industry Talks <br> - Papers Published |
-| **Phase 2** | **June – Sept 2025**  | - Alpha + Beta Testnet <br> - Ecosystem Pilots <br> - Data & AI Integration <br> - Community Building      |
-| **Phase 3** | **Q4 2025 – Q2 2026** | - Advanced Testnet Development <br> - Extended Stress Tests (scalability and performance) <br> - Ongoing Optimization <br> - Testnet Stability (>90% uptime) <br> - Global Pilot Rollouts (5-10 international partners) |
-| **Phase 4** | **Q1 – Q2 2026**      | - Mainnet Launch <br> - Governance Decentralization (75% DAO control) <br> - AI for Decentralized Networks <br> - Protocol dApp Integration <br> - Onboard 10,000+ Active Validators |
-
-
 ## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
 ### 📄 Whitepaper Release (Completed Aug 2024)
@@ -55,7 +43,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
 🔗 [Whitepaper (v2)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
-✓ 👥 Conducting 3 developer workshops (50+ participants each)  
+✓ 👥 Participating in 3 developer workshops (50+ participants each)  
 Locations: Oxford, Berkeley, and additional academic/industry venues
 
 ### 🌐 Proof of Concept Development (April – May 31, 2025)
@@ -117,7 +105,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 ## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
 
 ### 💰 Phase 3 Funding (October 2025)
-- Angel round to fund protocol dev & Testnet → Mainnet transition
+- $3-5M seed round to fund protocol dev & Testnet → Mainnet transition
 - Swiss foundation establishment (Geneva) by September 15, 2025
 - Allocation structure: <20% to insiders with two private rounds
   - Primary round: October 1-15, 2025
@@ -135,13 +123,13 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 - User feedback program targeting 80% satisfaction rate
 - Success metrics:
   - 95% uptime
-  - **Support for 10+ concurrent federated learning models**, specifically in collaboration with FL and data partners (e.g. FlowerLabs, OpenMined, and the SOLID communities).
+  - **Support for 10+ concurrent federated learning models**, specifically in collaboration with our FL and data partners by leveraging University of Oxford researcher community (e.g. specifically, FlowerLabs and the SOLID Foundation).
   - 50+ developer projects built on the testnet
 - Stress testing with simulated network load (November 15 - December 15, 2025) 
 
 ### 🔗 Staking & Governance Implementation (October 15 - January 15, 2026)
 - Implement testnet validator staking with 100+ active validators
-- Develop and deploy Delegated Proof of Stake governance system
+- Develop and deploy Delegated Proof of Stake (DPoS) system
 - Economic simulation testing with 1,000+ virtual nodes
 - Target: Finalize token economic model by January 15, 2026
 - Community governance proposals: First 5 accepted and implemented by January 30, 2026
@@ -157,7 +145,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 **Objective:** Accelerate adoption via integrations with top EVM ecosystems, decentralized AI/FL protocols, and community co-development.  
 -Key Partnerships  
   - EVM Ecosystems
-      - **Optimism, Arbitrum, Polygon, zkSync, Base** – Protocol integrations for horizontal adoption.  
+      - **Sei, Optimism, Arbitrum, Polygon, zkSync, Base** – Protocol integrations for horizontal adoption.  
 -Decentralized AI/FL & Data
 - *Collaborators:* GoKiteAI (DeAI demo), Sentient Foundation (governance), Protocol Labs (IPFS), AGI Alliance (Fetch.ai/SingularityNET/Ocean), Vana/Ora/Sherpa.ai (user-owned models).
 - **Community Activation:** Host 2 Encode Club hackathons (Oct '25/Jan '26); drive DeSci collaborations on data sovereignty; secure 10+ EVM/AI partnerships by Jan 2026; demo cross-protocol integration (Jan 15). 
@@ -170,7 +158,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
   - 100+ data providers based on quality and volume metrics
   - 200+ developers based on contribution impact
 - Target: 5,000+ initial token holders by February 15, 2026
-- Exchange listings: DEXs at launch + 3+ tier-1s
+- Exchange listings: DEXs at launch + 2+ tier-1s
 
 ## Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
 
