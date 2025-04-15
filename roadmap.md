@@ -63,16 +63,10 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
 
 ### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
-✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei, Optimism
+✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
 ✓ **Target:** Partnership announcement by May 31, 2025
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
-
-### 🏛️ Grant Funding (Phase 2 Funding – June 2025)
-▢ Submit applications to 5+ blockchain/AI grant programs
-    • Edge City – Submitted April 20th
-    • Remaining programs – Confidential
-**Target:** Strategic grants to support infrastructure and R&D
 
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 ▢ **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
@@ -88,19 +82,10 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - Initial security assessment completion by September 30, 2025
 **Target:** Achieve **95%+ uptime** for Beta Testnet with **80%+ success rate** for federated learning rounds by September 15, 2025.
 
-### 🧑‍💼 Angel Investment (Phase 2 Funding – June 2025)
-▢ Raise $1.2M from angel investors by May 31, 2025
-**Target:** Secure **100% of $1.2M** in angel funding by **May 31, 2025**.
-
-### 👩‍💻 Core Team Support (June 15 - September 30, 2025)
-✓ Build a network of contractors for specialized needs:
-  - Ensure continuity of core team blockchain/FL developers for EVM and distributed systems testnet preparation.
-  - Engage a project-based UX consultant for the design of the testnet interface.
+### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
 ▢ Engage co-development ecosystem partners for integration support:
   - Collaborate with **SOLID** (Jesse, Lead), **EVM-Compatible Blockchain**, **Flower Labs** (Javier, CSO), and **OpenMined** (network established).
 **Target:** Secure **3+ strategic partnerships** with co-development partners by September 30, 2025.
-
-### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
 
 ▢ **SOLID Integration** *(July 15 - August 15)*: Deploy **100+ data pods** with **1,000+ sample records**  
   - Led by tech advisor & SOLID lead **Jesse Wright** (Oxford)  
@@ -109,7 +94,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ▢ **OpenMined & Flower Labs** *(August 15 - September 30)*: Implement **2 federated learning models** with **50+ participants**  
 **Target:** Integrate **2 federated learning models** with **75+ participants** by **September 30, 2025**.
 
-▢ **DesSc Partnership Program Launch** *(September 1)*: Secure **3+ ecosystem partnerships** with aligned projects  
 **Target:** Establish **3+ formal partnerships** with aligned **AI** and **data science** projects by **September 30, 2025**.
 
 ### 📅 Community Building *(June 15 - September 30, 2025)*
@@ -127,54 +111,13 @@ Doctelligence is actively engaging with leading academic and industry communitie
   - Host **1 hackathon** with Encode Club *(September 1-15, 2025)*  
 **Target:** Achieve **300+ attendees** for the hackathon and **50+ completed projects** by September 15, 2025.
 
-### 📊 Business Development & Go-To-Market (June - September 2025)
-
-▢ **Use Case Validation:**
-  - Complete 3+ proof-of-concept implementations with research institutions
-  - Document ROI metrics for decentralized vs. centralized approaches
-  - Publish 2+ case studies highlighting technical and economic benefits
-**Target:** Establish clear value propositions with quantifiable metrics by September 15, 2025.
-
-▢ **Revenue Model Validation:**
-  - Test willingness-to-pay among 50+ potential enterprise users
-  - Model token economics with 3 different growth scenarios
-  - Validate fee structure against competitive alternatives
-**Target:** Finalize sustainable revenue model with pricing benchmarks by September 30, 2025.
-
-▢ **Customer Acquisition Strategy:**
-  - Develop and test 3+ acquisition funnels for different user segments
-  - Establish cost-per-acquisition benchmarks
-  - Create content marketing strategy focusing on thought leadership
-**Target:** Complete go-to-market playbook with segment-specific strategies by September 30, 2025.
-
-### 🧑‍💻 User Experience & Developer Onboarding (June - September 2025)
-▢ **Documentation Foundations:**
-  - Create comprehensive protocol documentation
-  - Develop validator node setup guide
-  - Publish API reference with examples
-**Target:** Complete documentation foundation with 90%+ coverage by September 15, 2025.
-
-▢ **Developer Tools:**
-  - Create CLI tool for node management
-  - Develop initial SDKs for Python and JavaScript
-  - Build testing frameworks for validators
-**Target:** Release initial developer toolkit by September 30, 2025.
-
 ## Phase 3: Ecosystem Growth & Mainnet Preparation *(October 2025 - February 2026)*
 
-#### Technical Performance
+#### KPI Technical Performance
 - Advanced Testnet Uptime: 95%+ (Target: 98%)
 - FL Model Support: 10+ concurrent models (Target: 15+)
 - Network Stability Under Load: 99% (Target: 99.5%)
 - Security Audit Completion: 100% critical issues resolved
-
-### 💰 Phase 3 Funding *(October 2025)*  
-▢ Raise **$3-5M** in private round to fund protocol development & Testnet → Mainnet transition  
-  - **Swiss Foundation establishment** (Geneva) by **September 15, 2025**  
-  - **Insider allocation**: <20% to insiders with two private rounds of 7.5% allocated to insider investors  
-    - **Private Round 1**: 5% allocated to insider investors *(October 1–15, 2025)*  
-    - **Private Round 2**: 2.5% conditionally reserved as a risk buffer  
-**Target:** Secure **100% of $3-5M** by **October 15, 2025**, ensuring foundation establishment and team expansion.
 
 ▢ **Core Team Expansion**: Funding allocated to strategic hiring  
   - 3 Blockchain developers with **EVM expertise** and distributed systems background  
