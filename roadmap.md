@@ -25,7 +25,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ---
 
-### 📅 Strategic Industry Engagement (2024–2025)
+### 📅 Strategic Academic & Industry Engagement (2024–2025)
 
 Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
 
@@ -37,14 +37,12 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
 | **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
----
-### 🔧 In Progress (June–August 2025)
+In Progress (June–August 2025)
 ✓ 📄 Publishing 2 technical papers on protocol architecture (April–May 2025)  
 🔗 [arXiv Preprint](https://arxiv.org/abs/2407.02461)  
 🔗 [Whitepaper (v2)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
-
 ✓ 👥 Participating in 3 developer workshops (50+ participants each)  
-Locations: Oxford, Berkeley, and additional academic/industry venues
+✓ Oxford, Berkeley, and additional academic/industry venues (**active**)
 
 ### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
 Core Protocol Functions ✓ · Validator Node (Incentives) ✓ · Data Provider APIs ✓
@@ -53,7 +51,7 @@ Core Protocol Functions ✓ · Validator Node (Incentives) ✓ · Data Provider 
 ### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
 ✓ Evaluating 3 potential EVM-compatible blockchain partners: Sei, EigenLayer, Optimism  
 ✓ Technical integration documentation in development  
-✓ **Target:** Partnership announcement by **May 31, 2025**
+✓ **Target:** Partnership announcement by May 31, 2025
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
