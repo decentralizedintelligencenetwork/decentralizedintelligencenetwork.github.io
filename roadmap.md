@@ -88,22 +88,12 @@ Doctelligence is actively engaging with leading academic and industry communitie
 
 **Co-development Ecosystem Partners**
 - Collaborate with SOLID (Jesse, Lead), EVM-Compatible Blockchain, Flower Labs (Javier, CSO), and OpenMined
-- Target: Secure 3+ strategic partnerships by September 30, 2025
-
-**SOLID Integration** (July 15 - August 15)
-- Led by tech advisor & SOLID lead Jesse Wright (Oxford)
-- Target: Deploy 100+ data pods with 1,000+ sample records by August 15, 2025
-
-**OpenMined & Flower Labs** (August 15 - September 30)
-- Target: Integrate 2 federated learning models with 75+ participants by September 30, 2025
-- Establish 3+ formal partnerships with aligned AI and data science projects
+- Target: Secure 5+ strategic partnerships by September 30, 2025
 
 ### Community Building (June 15 - September 30, 2025)
 
 **Developer Community Growth**
 - Target: Reach 100+ active members by September 30, 2025
-
-**Social Media & Testnet Participation**
 - Target: Increase social media following to 8,000+ and 500+ active testnet participants by September 30, 2025
 
 **Key Activities**
