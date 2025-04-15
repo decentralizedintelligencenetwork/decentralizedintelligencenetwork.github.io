@@ -66,8 +66,6 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
 ✓ - **Target:** Partnership announcement by May 31, 2025
 
-# Project Roadmap
-
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
 ### Testnet Development (June 15 - September 30, 2025)
