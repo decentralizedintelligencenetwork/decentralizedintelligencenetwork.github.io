@@ -198,34 +198,62 @@ Doctelligence is actively engaging with leading academic and industry communitie
 
 ---
 
-## Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
+## Phase 4: Mainnet Deployment & Decentralization *(Q1-Q2 2026)*
 
-### 🖥️ Mainnet Launch (January 1 - March 31, 2026)
-- Phased deployment schedule:
-    - Critical infrastructure (January 15, 2026)
-    - Core functionality (February 15, 2026)
-    - Full feature set (March 31, 2026)
-- Target: 1,000+ active validators by end of Q1 2026
-- Network fee structure implementation with projected revenue model
-    - Value accrual mechanism: 70% of network fees distributed to validators, 20% to treasury, 10% to public goods
+### 🖥️ Mainnet Launch *(January 1 - March 31, 2026)*  
+▢ Phased deployment schedule:  
+  - **Critical infrastructure** *(January 15, 2026)*  
+  - **Core functionality** *(February 15, 2026)*  
+  - **Full feature set** *(March 31, 2026)*  
+**Target:** Complete phased deployment with **1,000+ active validators** by **March 31, 2026**.
 
-### 🏛️ Governance & Ownership Decentralization (Q1-Q2 2026)
-- DAO establishment (January 2026)
-- Governance framework implementation (February 2026)
-- First community improvement proposals (March 2026)
-- Target: Transfer 75% of protocol control to DAO by June 2026
+▢ **Network fee structure** implementation with projected revenue model  
+  - Value accrual mechanism: **70% of network fees distributed to validators**, **20% to treasury**, **10% to public goods**  
+**Target:** Finalize and deploy network fee structure with a **revenue model** in place by **March 31, 2026**.
 
-### 🌍 AI for Decentralized Networks (Q1–Q2 2026)
+---
 
-- Integrate decentralized data ownership models across key sectors: healthcare, DeSci, smart cities, agritech, education, and DePIN. Onboard 500 active data ecosystems per sector, refine models, and scale with real-world use cases.  
-    - Targeted Community Engagement: Drive **10% monthly growth** in platform engagement for blockchain partners, leveraging our infrastructure. Present at industry events to secure key partnerships.  
-- Launch enterprise private side chains for centralized enterprises and expand **mainnet implementations**. Secure **Phase 2 funding** and engage **500+ professionals** at industry events to accelerate adoption.  
+### 🏛️ Governance & Ownership Decentralization *(Q1-Q2 2026)*  
+▢ **DAO establishment** *(January 2026)*  
+▢ **Governance framework implementation** *(February 2026)*  
+▢ **First community improvement proposals** *(March 2026)*  
+**Target:** Transfer **75% of protocol control** to DAO by **June 30, 2026**.
 
-### 💸 Token Economics & Value Accrual (Throughout 2026)
-- Value accrual mechanisms:
-    - Transaction fees from network usage (30% of total value)
-    - Staking rewards from network security (40% of total value)
-    - Service fees from FL model marketplace dApps that integrate infrastructure (30% of total value). For more on the tracing fees model, see [this article](https://a16zcrypto.com/posts/article/application-tokens-economic-model-cash-flows/).
-- Quarterly buyback & burn program based on network revenue
-- Target: Achieve sustainable tokenomics with demonstrable utility value
-- KPIs: Monthly active users, transaction volume, token velocity metrics
+---
+
+### 🌍 AI for Decentralized Networks *(Q1–Q2 2026)*  
+▢ **Integrate decentralized data ownership models** across key sectors:  
+  - **Healthcare, DeSci, smart cities, agritech, education, and DePIN**  
+  - **500 active data ecosystems** per sector  
+  - Refine models and scale with real-world use cases  
+**Target:** Onboard **500+ active data ecosystems per sector** with **real-world applications** by **June 30, 2026**.
+
+▢ **Targeted Community Engagement**:  
+  - Drive **10% monthly growth** in platform engagement for blockchain partners  
+  - Present at **3 industry events** to secure **5+ key partnerships**  
+**Target:** Achieve **10% monthly growth** in engagement and secure **5+ strategic partnerships** by **June 30, 2026**.
+
+▢ **Launch enterprise private side chains** for centralized enterprises  
+  - Expand **mainnet implementations**  
+  - Secure **Phase 2 funding**  
+**Target:** Deploy **2+ enterprise private side chains** and achieve **50% expansion in mainnet implementations** by **June 2026**.
+
+---
+
+### 💸 Token Economics & Value Accrual *(Throughout 2026)*  
+▢ **Value accrual mechanisms**:  
+  - **Transaction fees** from network usage (30% of total value)  
+  - **Staking rewards** from network security (40% of total value)  
+  - **Service fees** from FL model marketplace dApps (30% of total value)  
+**Target:** Achieve **sustainable tokenomics** with **demonstrable utility value** by **June 30, 2026**.
+
+▢ **Quarterly buyback & burn program** based on network revenue  
+**Target:** Implement buyback & burn program by **Q2 2026** with **regular reporting** of network revenue metrics.
+
+▢ **KPIs**:  
+  - **Monthly active users**  
+  - **Transaction volume**  
+  - **Token velocity metrics**  
+**Target:** Track and report on **monthly active users**, **transaction volume**, and **token velocity** metrics with **clear growth benchmarks** starting by **March 2026**.
+
+---
