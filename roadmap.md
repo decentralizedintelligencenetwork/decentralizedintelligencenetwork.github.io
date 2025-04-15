@@ -50,23 +50,33 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 Doctelligence is actively engaging with leading academic and industry communities to shape the future of decentralized AI. Highlights include selected speaker presentations with technical demonstrations at major events:
 
-### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
-(-) Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case.
-✓ **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
-
 | 📅 Event | 🗣️ Talk Title / Role | 🔗 Links | 🏷️ Sponsored By |
 |---------|------------------------|----------|------------------|
 | **RDI Berkeley (Aug '24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) | Oxford CS Department |
 | **ETHDenver (Mar '25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) | Oxford Blockchain Society, EduDAO |
 | **Consensus 2025** | Attendance Confirmed | [Consensus](https://consensus2025.coindesk.com) | EduDAO |
-| **Cosmos Institute (May '25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
+| **Cosmos Institute (May '25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute |
 | **DeFiCon NYC (June '25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
+
+### 🏛️ Grant Funding *(Phase 1 Funding – March 2025)*
+▢ Secure fast grant from Cosmos Institute [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) 
+✓ - **Target:** Secure next **grant awards** totaling **$5,000** to support PoC development and R&D.
+
+### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
+(-) Core Protocol Functions, Validator Node (Incentives), DeSci Dataset Use-Case.
+✓ - **Target:** Functional PoC with 3+ test nodes by **May 31, 2025**
 
 ### ⚡ EVM-Compatible Blockchain Integration (Q2 2025)
 ✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
-✓ **Target:** Partnership announcement by May 31, 2025
+✓ - **Target:** Partnership announcement by May 31, 2025
 
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
+
+### 🏛️ Grant Funding *(Phase 2 Funding – June 2025)*
+▢ Submit applications to 5+ blockchain/AI grant programs  
+  • *Edge City – Submitted April 20th*  
+  • *Remaining programs – Confidential*  
+**Target:** Secure next **grant awards** totaling **$200,000** to support infrastructure and R&D.
 
 ### 🔗 Testnet Development (June 15 - September 30, 2025)
 ▢ **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
@@ -81,6 +91,10 @@ Doctelligence is actively engaging with leading academic and industry communitie
   - Latency goal: <500 ms average for federated model updates
 - Initial security assessment completion by September 30, 2025
 **Target:** Achieve **95%+ uptime** for Beta Testnet with **80%+ success rate** for federated learning rounds by September 15, 2025.
+
+### 🧑‍💼 Angel Investment (Phase 2 Funding – June 2025)
+▢ Raise $1.2M from angel investors by May 31, 2025
+Target: Secure 100% of $1.2M in angel funding by May 31, 2025.
 
 ### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
 ▢ Engage co-development ecosystem partners for integration support:
@@ -118,6 +132,16 @@ Doctelligence is actively engaging with leading academic and industry communitie
 - FL Model Support: 10+ concurrent models (Target: 15+)
 - Network Stability Under Load: 99% (Target: 99.5%)
 - Security Audit Completion: 100% critical issues resolved
+
+### 💰 Phase 3 Funding (October 2025)
+▢ Raise $3-5M in private round to fund protocol development & Testnet → Mainnet transition
+
+- Swiss Foundation establishment (Geneva) by September 15, 2025
+- Insider allocation: <20% to insiders with two private rounds of 7.5% allocated to insider investors
+
+- Private Round 1: 5% allocated to insider investors (October 1–15, 2025)
+- Private Round 2: 2.5% conditionally reserved as a risk buffer
+- **Target**: Secure 100% of $3-5M by October 15, 2025, ensuring foundation establishment and team expansion.
 
 ▢ **Core Team Expansion**: Funding allocated to strategic hiring  
   - 3 Blockchain developers with **EVM expertise** and distributed systems background  
