@@ -138,7 +138,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 - Transfer 75% of protocol control to DAO by June 30, 2026 (-)
 - Target: Secure 85% DAO control, implement value accrual mechanisms, and maintain positive growth in token utility metrics. (-)
 
-### 🤖 AI for Decentralized Networks (Q1–Q2 2026)
+### 🤖 Federated AI for Impactful Global Ecosystems (Q1–Q2 2026)
 
 - Onboard 500+ active data ecosystems across sectors ( DeSci, Healthcare, DePIN, Smart Cities, Agritech, Etc) by June 30, 2026 (-)
 - Achieve 10% monthly growth in engagement and secure 5+ key partnerships by June 30, 2026 (-)
