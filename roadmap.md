@@ -89,7 +89,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ### 🛡️ Staking & Governance Implementation (Oct 15 – Jan 15, 2026)
 
-- Launch testnet validator staking with 100+ active validators and deploy DPoS system (-)
+- Launch testnet validator staking with 100+ active validators and deploy staking system (-)
 - Finalize token economic model and achieve 100% consensus by Jan 15, 2026 (-)
 - Implement 5+ community governance proposals with 80%+ approval rate by Jan 30, 2026 (-)
 
@@ -144,9 +144,10 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ### 💰 Token Economics & Value Accrual (Throughout 2026)
 
+- Launch delegated proof of stake (DPoS) pools to reward token holders, enhancing network security and liquidity by June 30, 2026. (-)
 - Achieve sustainable tokenomics with network useage driving protocol fees utility value by June 30, 2026 (-)
 - Implement quarterly buyback & burn program by Q2 2026 with regular reporting of network revenue metrics (-)
-- Track and report on monthly active users, transaction volume, and token velocity metrics starting by March 2026 (-)
+- Launch delegated proof of stake (DPoS) pools to reward token holders, enhancing network security and liquidity. (-)
   
 ### 🌱 Long-Term Sustainability Strategy (Q1-Q2 2026)
 
