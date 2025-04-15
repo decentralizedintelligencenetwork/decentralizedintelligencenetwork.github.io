@@ -130,7 +130,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ### 🚀 Advanced Testnet Deployment *(October 1 - December 15, 2025)*  
 ▢ **Feature-complete testnet** with **500+ nodes** by **December 15, 2025**  
 ▢ Bi-weekly **performance improvement releases**  
-▢ **User feedback program** targeting **80%+ satisfaction rate**  
+▢ **Developer feedback** targeting **80%+ satisfaction rate**  
 **Target:** Achieve **95%+ uptime** with **500+ active nodes** and **80%+ user satisfaction** by **December 15, 2025**.
 
 ▢ Success metrics:  
