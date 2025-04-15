@@ -35,7 +35,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 | **ETHDenver (Mar ‘25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) | Oxford Blockchain Society, EduDAO |
 | **Consensus 2025** | Attendance Confirmed | [Consensus](https://consensus2025.coindesk.com) | EduDAO |
 | **Cosmos Institute (May ‘25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute (Grant Award) |
-| **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | Summit (Sponsored Attendance) |
+| **DeFiCon NYC (June ‘25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
 
 ---
 ### 🔧 In Progress (June–August 2025)
