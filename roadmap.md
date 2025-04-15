@@ -24,6 +24,8 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 **Legend:**  
 [████] Complete [▒▒▒▒] In Progress [░░░░] Planned
 
+---
+
 ## 🏗️ Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
 ### 📄 Whitepaper Release (Completed Aug 2024)
