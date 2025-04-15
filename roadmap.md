@@ -21,8 +21,7 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 **Q1 2026** [░░░░░░░░░░░░] TGE Preparation | Mainnet Launch  
 **Q2 2026** [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion  
 
-**Legend:**  
-[████] Complete [▒▒▒▒] In Progress [░░░░] Planned
+**Legend:**  [████] Complete [▒▒▒▒] In Progress [░░░░] Planned
 
 ---
 
