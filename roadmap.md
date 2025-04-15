@@ -11,12 +11,15 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 ## 🚀 At a Glance: Key Roadmap Highlights
 
-| **Phase**   | **Dates**           | **Major Milestones**                                                                                                                                                         |
-|-------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Phase 1** | **Q1 2024 – Q2 2025** | ✅ **Prototype Deployed** <br> ✅ **Whitepaper Released** <br> 🛠️ **PoC in Progress** <br> 🔗 **Industry Talks** <br> 📄 **Papers Published**                                        |
-| **Phase 2** | **June – Sept 2025**  | 🚧 **Alpha + Beta Testnet** <br> 🤝 **Ecosystem Pilots** <br> 🤖 **Data & AI Integration** <br> 📅 **Community Building** |
-| **Phase 3** | **Q4 2025 – Q2 2026** | 🚧 **Advanced Testnet Development** <br> 🧪 **Extended Stress Tests** (focusing on scalability and performance) <br> 🔄 **Ongoing Optimization** (Fine-tuning federated learning system and security protocols) <br> 📊 **Testnet Stability** (Achieve >90% uptime in stress tests) <br> 🌍 **Global Pilot Rollouts** (Targeting 5-10 international partners) |
-| **Phase 4** | **Q1 – Q2 2026**      | 🚧 **Mainnet Launch** (Critical infrastructure, core functionality, full feature set) <br> 🎯 **Governance Decentralization** (DAO transfer of 75% control) <br> 🤖 **AI for Decentralized Networks** (Integration in key sectors) <br> 💰 **Protocol dApp Integration** (Training, staking pools, and protocol fees) <br> 📈 **Onboard 10,000+ Active Validators** |
+### Project Phases & Milestones
+
+| **Phase**   | **Dates**           | **Major Milestones**                                                                                     |
+|-------------|---------------------|----------------------------------------------------------------------------------------------------------|
+| **Phase 1** | **Q1 2024 – Q2 2025** | - Prototype Deployed <br> - Whitepaper Released <br> - PoC in Progress <br> - Industry Talks <br> - Papers Published |
+| **Phase 2** | **June – Sept 2025**  | - Alpha + Beta Testnet <br> - Ecosystem Pilots <br> - Data & AI Integration <br> - Community Building      |
+| **Phase 3** | **Q4 2025 – Q2 2026** | - Advanced Testnet Development <br> - Extended Stress Tests (scalability and performance) <br> - Ongoing Optimization <br> - Testnet Stability (>90% uptime) <br> - Global Pilot Rollouts (5-10 international partners) |
+| **Phase 4** | **Q1 – Q2 2026**      | - Mainnet Launch <br> - Governance Decentralization (75% DAO control) <br> - AI for Decentralized Networks <br> - Protocol dApp Integration <br> - Onboard 10,000+ Active Validators |
+
 
 ## Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
