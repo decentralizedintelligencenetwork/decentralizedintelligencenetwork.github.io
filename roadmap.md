@@ -13,8 +13,8 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 
 **Q1 2024** [████████████] Oxford CS Department: Blockchain-FL Protocol Research  
 **Q2 2024** [████████████] Prototype & Simulation Experiments Released  
-**Q3 2024** [████████████] Whitepaper Release & Publications  
-**Q4 2024** [████████████] Strategic Academic & Industry Engagement  
+**Q3 2024** [████████████] Whitepaper Release & Publications Published  
+**Q4 2024** [████████████] Academic & Industry Engagement & Validation  
 **Q1 2025** [████████████] Decentralized Team & Early Collaborations | Cosmos Institute  
 **Q2 2025** [▒▒▒▒▒▒▒▒▒▒▒▒] PoC Development | EVM-Ecosystem Integration 
 **Q3 2025** [░░░░░░░░░░░░] Testnet Development | Community Building  
