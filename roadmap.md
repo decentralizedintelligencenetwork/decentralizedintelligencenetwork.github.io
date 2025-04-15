@@ -190,7 +190,7 @@ Locations: Oxford, Berkeley, and additional academic/industry venues
 
 - Integrate decentralized data ownership models across key sectors: healthcare, DeSci, smart cities, agritech, education, and DePIN. Onboard 500 active data ecosystems per sector, refine models, and scale with real-world use cases.  
     - Targeted Community Engagement: Drive **10% monthly growth** in platform engagement for blockchain partners, leveraging our infrastructure. Present at industry events to secure key partnerships.  
--  Launch enterprise private side chains for centralized enterprises and expand **mainnet implementations**. Secure **Phase 2 funding** and engage **500+ professionals** at industry events to accelerate adoption.  
+- Launch enterprise private side chains for centralized enterprises and expand **mainnet implementations**. Secure **Phase 2 funding** and engage **500+ professionals** at industry events to accelerate adoption.  
 
 ### 💸 Token Economics & Value Accrual (Throughout 2026)
 - Value accrual mechanisms:
