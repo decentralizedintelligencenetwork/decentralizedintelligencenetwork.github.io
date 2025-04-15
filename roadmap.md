@@ -66,154 +66,162 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ✓ Technical integration documentation for EVM-compatible blockchain partners e.g. Sei
 ✓ - **Target:** Partnership announcement by May 31, 2025
 
+# Project Roadmap
+
 ## Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
 
-### 🔗 Testnet Development (June 15 - September 30, 2025)
-▢ **Alpha Testnet**: Launch with 25+ validator nodes by July 31, 2025
-  - Initial protocol implementation with basic functionality
-  - Performance goal: 1-2 federated learning rounds/hour
-  - Latency goal: <1 second average for federated model updates
-**Target:** Achieve **90%+ uptime** for Alpha Testnet with **50%+ success rate** for federated learning rounds by July 31, 2025.
+### Testnet Development (June 15 - September 30, 2025)
+
+**Alpha Testnet** (By July 31, 2025)
+- Initial protocol implementation with basic functionality
+- Performance goal: 1-2 federated learning rounds/hour
+- Latency goal: <1 second average for federated model updates
+- Target: 90%+ uptime with 50%+ success rate for federated learning rounds
     
-▢ **Beta Testnet**: Expand to 100+ validator nodes by September 15, 2025
-  - Enhanced functionality and improved stability
-  - Performance goal: 2-5 federated learning rounds/hour
-  - Latency goal: <500 ms average for federated model updates
+**Beta Testnet** (By September 15, 2025)
+- Expand to 100+ validator nodes
+- Enhanced functionality and improved stability
+- Performance goal: 2-5 federated learning rounds/hour
+- Latency goal: <500 ms average for federated model updates
 - Initial security assessment completion by September 30, 2025
-**Target:** Achieve **95%+ uptime** for Beta Testnet with **80%+ success rate** for federated learning rounds by September 15, 2025.
+- Target: 95%+ uptime with 80%+ success rate for federated learning rounds
 
-### 🤖 Early Data & AI Integration *(July 15 - September 30, 2025)*
-▢ Engage co-development ecosystem partners for integration support:
-  - Collaborate with **SOLID** (Jesse, Lead), **EVM-Compatible Blockchain**, **Flower Labs** (Javier, CSO), and **OpenMined** (network established).
-**Target:** Secure **3+ strategic partnerships** with co-development partners by September 30, 2025.
+### Early Data & AI Integration (July 15 - September 30, 2025)
 
-▢ **SOLID Integration** *(July 15 - August 15)*: Deploy **100+ data pods** with **1,000+ sample records**  
-  - Led by tech advisor & SOLID lead **Jesse Wright** (Oxford)  
-**Target:** Deploy **100+ data pods** with **1,000+ sample records** by **August 15, 2025**.
+**Co-development Ecosystem Partners**
+- Collaborate with SOLID (Jesse, Lead), EVM-Compatible Blockchain, Flower Labs (Javier, CSO), and OpenMined
+- Target: Secure 3+ strategic partnerships by September 30, 2025
 
-▢ **OpenMined & Flower Labs** *(August 15 - September 30)*: Implement **2 federated learning models** with **50+ participants**  
-**Target:** Integrate **2 federated learning models** with **75+ participants** by **September 30, 2025**.
+**SOLID Integration** (July 15 - August 15)
+- Led by tech advisor & SOLID lead Jesse Wright (Oxford)
+- Target: Deploy 100+ data pods with 1,000+ sample records by August 15, 2025
 
-**Target:** Establish **3+ formal partnerships** with aligned **AI** and **data science** projects by **September 30, 2025**.
+**OpenMined & Flower Labs** (August 15 - September 30)
+- Target: Integrate 2 federated learning models with 75+ participants by September 30, 2025
+- Establish 3+ formal partnerships with aligned AI and data science projects
 
-### 📅 Community Building *(June 15 - September 30, 2025)*
-▢ Grow **developer community** to **50+ active members**  
-**Target:** Reach **100+ active members** by **September 30, 2025**
+### Community Building (June 15 - September 30, 2025)
 
-▢ Achieve **5,000+ social media followers**  
-  - 100+ active testnet participants  
-**Target:** Increase social media following to **8,000+** and **500+ active testnet participants** by September 30, 2025.
+**Developer Community Growth**
+- Target: Reach 100+ active members by September 30, 2025
 
-▢ Key activities:  
-  - **2 technical workshops** at DeSci/ETHGlobal events  
-  - Bi-weekly **developer office hours** starting **July 1, 2025**  
-  - Launch **developer incentive program** with micro-bounties *(July 15, 2025)*  
-  - Host **1 hackathon** with Encode Club *(September 1-15, 2025)*  
-**Target:** Achieve **300+ attendees** for the hackathon and **50+ completed projects** by September 15, 2025.
+**Social Media & Testnet Participation**
+- Target: Increase social media following to 8,000+ and 500+ active testnet participants by September 30, 2025
 
-## Phase 3: Ecosystem Growth & Mainnet Preparation *(October 2025 - February 2026)*
+**Key Activities**
+- 2 technical workshops at DeSci/ETHGlobal events
+- Bi-weekly developer office hours starting July 1, 2025
+- Launch developer incentive program with micro-bounties (July 15, 2025)
+- Host 1 hackathon with Encode Club (September 1-15, 2025)
+- Target: Achieve 300+ attendees for the hackathon and 50+ completed projects
 
-#### KPI Technical Performance
+## Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
+
+### KPI Technical Performance
 - Advanced Testnet Uptime: 95%+ (Target: 98%)
 - FL Model Support: 10+ concurrent models (Target: 15+)
 - Network Stability Under Load: 99% (Target: 99.5%)
 - Security Audit Completion: 100% critical issues resolved
 
-### 🚀 Advanced Testnet Deployment *(October 1 - December 15, 2025)*  
-▢ **Feature-complete testnet** with **500+ nodes** by **December 15, 2025**  
-▢ Bi-weekly **performance improvement releases**  
-▢ **Developer feedback** targeting **80%+ satisfaction rate**  
-**Target:** Achieve **95%+ uptime** with **500+ active nodes** and **80%+ user satisfaction** by **December 15, 2025**.
+### Advanced Testnet Deployment (October 1 - December 15, 2025)
 
-▢ Success metrics:  
-  - **95% uptime**  
-  - **Support for 10+ concurrent federated learning models**, specifically in collaboration with FL and data partners (e.g., University of Oxford, FlowerLabs, SOLID Foundation).  
-  - **50+ developer projects** built on the testnet  
-**Target:** Support **10+ federated learning models** with **50+ active projects** by **December 15, 2025**.
+**Feature-complete Testnet**
+- Target: 95%+ uptime with 500+ active nodes and 80%+ user satisfaction
+- Bi-weekly performance improvement releases
+- Developer feedback targeting 80%+ satisfaction rate
 
-▢ **Stress testing** with simulated network load *(November 15 - December 15, 2025)*  
-**Target:** Complete **stress testing with 1,000+ virtual nodes** and achieve **99% network stability** under load.
+**Success Metrics**
+- 95% uptime
+- Support for 10+ concurrent federated learning models
+- 50+ developer projects built on the testnet
 
-### 🔗 Staking & Governance Implementation *(October 15 - January 15, 2026)*  
-▢ Implement **testnet validator staking** with **100+ active validators**  
-▢ Develop and deploy **Delegated Proof of Stake (DPoS)** system  
-▢ **Economic simulation testing** with **1,000+ virtual nodes**  
-**Target:** Launch **DPoS system with 100+ validators** and complete **1,000+ virtual node** economic simulation by **January 15, 2026**.
+**Stress Testing** (November 15 - December 15, 2025)
+- Target: Complete stress testing with 1,000+ virtual nodes and achieve 99% network stability under load
 
-▢ **Finalize token economic model** by **January 15, 2026**  
-**Target:** Complete token economic model with **100% consensus** from core team and key partners.
+### Staking & Governance Implementation (October 15 - January 15, 2026)
 
-▢ **Community governance proposals**: First **5 accepted and implemented** by **January 30, 2026**  
-**Target:** Achieve **5+ implemented community proposals** with **80%+ approval rate** by **January 30, 2026**.
+**Validator Staking**
+- Implement testnet validator staking with 100+ active validators
+- Develop and deploy Delegated Proof of Stake (DPoS) system
+- Economic simulation testing with 1,000+ virtual nodes
+- Target: Launch DPoS system with 100+ validators by January 15, 2026
 
-### 🔧 Protocol Hardening & Security *(November 1, 2025 - January 31, 2026)*  
-▢ Complete **3 independent security audits** from top-tier firms  
-**Target:** Achieve **100% completion** of security audits with all **critical vulnerabilities** resolved by **January 31, 2026**.
+**Token Economics & Governance**
+- Finalize token economic model by January 15, 2026
+- Target: 100% consensus from core team and key partners
+- Community governance proposals: First 5 accepted and implemented by January 30, 2026
+- Target: 5+ implemented community proposals with 80%+ approval rate
 
-▢ Implement **performance optimizations** targeting **2.5x throughput** improvement  
-**Target:** Achieve **2.5x throughput** improvement as measured by **load testing** by **January 31, 2026**.
+### Protocol Hardening & Security (November 1, 2025 - January 31, 2026)
 
-▢ **Bug bounty program**: Launch with **$250K pool** *(November 15, 2025)*  
-**Target:** Attract **100+ security researchers** and resolve **90% of high-priority bugs** by **January 31, 2026**.
+**Security Audits**
+- Complete 3 independent security audits from top-tier firms
+- Target: 100% completion with all critical vulnerabilities resolved by January 31, 2026
 
-▢ **Production-ready protocol** by **January 31, 2026**  
-**Target:** Ensure **100% protocol stability** and performance optimization for mainnet transition.
+**Performance Optimization**
+- Target: 2.5x throughput improvement as measured by load testing by January 31, 2026
 
-### 🌍 Strategic Partnerships *(Q4 2025 – Q1 2026)*  
-**Objective:** Accelerate adoption via integrations with top EVM ecosystems, decentralized AI/FL protocols, and community co-development.  
-▢ **Key Partnerships**  
-  - **EVM Ecosystems**  
-    - **Sei, Optimism, Arbitrum, Polygon, zkSync, Base** – Protocol integrations for horizontal adoption.  
-  - **Decentralized AI/FL & Data**  
-    - **Collaborators:** GoKiteAI (DeAI demo), Sentient Foundation (governance), Protocol Labs (IPFS), AGI Alliance (Fetch.ai/SingularityNET/Ocean), Vana/Ora/Sherpa.ai (user-owned models).  
+**Bug Bounty Program** (Launch November 15, 2025)
+- $250K pool
+- Target: Attract 100+ security researchers and resolve 90% of high-priority bugs by January 31, 2026
 
-**Target:** Secure **10+ strategic EVM/AI partnerships** by **January 2026** and demonstrate **cross-protocol integration** by **January 15, 2026**.
+**Production Readiness**
+- Target: 100% protocol stability and performance optimization for mainnet transition by January 31, 2026
 
-▢ **Community Activation:**  
-  - Host **2 Encode Club hackathons** *(October '25, January '26)*  
-  - Drive **DeSci collaborations** on data sovereignty  
-**Target:** Achieve **200+ participants** at each hackathon and demonstrate **5+ cross-protocol integrations**.
+### Strategic Partnerships (Q4 2025 – Q1 2026)
 
-### 🔒 Regulatory Compliance Strategy (Q4 2025 - Q1 2026)
+**Key Partnerships**
+- EVM Ecosystems: Sei, Optimism, Arbitrum, Polygon, zkSync, Base
+- Decentralized AI/FL & Data: GoKiteAI, Sentient Foundation, Protocol Labs, AGI Alliance, Vana/Ora/Sherpa.ai
+- Target: Secure 10+ strategic EVM/AI partnerships by January 2026
 
-▢ **Legal Framework** *(Q4 2025)*
-  - Swiss Foundation structure fully operational
-  - Token classification legal opinions in 5 key jurisdictions
-  - Compliance documentation for validator operators
-**Target:** Complete legal framework with all necessary opinions by December 31, 2025.
+**Community Activation**
+- Host 2 Encode Club hackathons (October '25, January '26)
+- Drive DeSci collaborations on data sovereignty
+- Target: 200+ participants at each hackathon and 5+ cross-protocol integrations
 
-▢ **Data Privacy Compliance** *(Q1 2026)*
-  - GDPR-compliant data handling for EU operations
-  - Region-specific data governance frameworks (EU, US, APAC)
-  - Privacy-preserving federated learning documentation
-**Target:** Achieve compliance certification in 3+ jurisdictions by January 31, 2026.
+### Regulatory Compliance Strategy (Q4 2025 - Q1 2026)
 
-### 🧑‍💻 Advanced User Experience & Developer Tools (Q4 2025 - Q1 2026)
+**Legal Framework** (Q4 2025)
+- Swiss Foundation structure fully operational
+- Token classification legal opinions in 5 key jurisdictions
+- Compliance documentation for validator operators
+- Target: Complete legal framework with all necessary opinions by December 31, 2025
 
-▢ **Documentation & Resources** *(Q4 2025)*
-  - Comprehensive API documentation with interactive examples
-  - Step-by-step validator node setup guide with video tutorials
-  - FL model integration cookbook with 10+ sample implementations
-**Target:** Complete documentation suite with 95%+ coverage by December 31, 2025.
+**Data Privacy Compliance** (Q1 2026)
+- GDPR-compliant data handling for EU operations
+- Region-specific data governance frameworks (EU, US, APAC)
+- Privacy-preserving federated learning documentation
+- Target: Compliance certification in 3+ jurisdictions by January 31, 2026
 
-▢ **Developer SDK & Tools** *(Q1 2026)*
-  - Release Python, JavaScript, and Rust SDKs
-  - Create CLI tool for validator management
-  - Develop VS Code extension for blockchain interaction
-**Target:** Launch full SDK suite with 500+ downloads by January 31, 2026.
+### Advanced User Experience & Developer Tools (Q4 2025 - Q1 2026)
 
-### 🌱 TGE Preparation & Token Launch *(Q1 2026)*  
-▢ **Token Generation Event preparation** *(January 1-31, 2026)*  
-▢ **Token launch and distribution** *(February 1-15, 2026)*  
-▢ **Airdrop program** for early participants:  
-  - **500+ validators** receiving performance-based token allocation  
-  - **100+ data providers** based on quality and volume metrics  
-  - **200+ developers** based on contribution impact  
+**Documentation & Resources** (Q4 2025)
+- Comprehensive API documentation with interactive examples
+- Step-by-step validator node setup guide with video tutorials
+- FL model integration cookbook with 10+ sample implementations
+- Target: Complete documentation suite with 95%+ coverage by December 31, 2025
 
-**Target:**  
-- Achieve **5,000+ initial token holders** by **February 15, 2026**.  
-- **DEX listing** at launch and **2+ tier-1 exchange listings** by **February 28, 2026**.  
-- **Airdrop participation**: Distribute tokens to **500+ validators**, **100+ data providers**, and **200+ developers** by **February 15, 2026**.
+**Developer SDK & Tools** (Q1 2026)
+- Release Python, JavaScript, and Rust SDKs
+- Create CLI tool for validator management
+- Develop VS Code extension for blockchain interaction
+- Target: Launch full SDK suite with 500+ downloads by January 31, 2026
+
+### TGE Preparation & Token Launch (Q1 2026)
+
+**Token Generation Event** (January 1-31, 2026)
+- Token launch and distribution (February 1-15, 2026)
+
+**Airdrop Program** for early participants
+- 500+ validators receiving performance-based token allocation
+- 100+ data providers based on quality and volume metrics
+- 200+ developers based on contribution impact
+
+**Launch Targets**
+- 5,000+ initial token holders by February 15, 2026
+- DEX listing at launch and 2+ tier-1 exchange listings by February 28, 2026
+- Distribute tokens to all qualifying participants by February 15, 2026
 
 ## Phase 4: Mainnet Deployment & Decentralization *(Q1-Q2 2026)*
 
