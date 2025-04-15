@@ -90,6 +90,7 @@ Doctelligence is actively engaging with leading academic and industry communitie
 ### 📅 Community Building *(June 15 - September 30, 2025)*
 ▢ Grow **developer community** to **50+ active members**  
 **Target:** Reach **100+ active members** by **September 30, 2025**
+
 ▢ Achieve **5,000+ social media followers**  
   - 100+ active testnet participants  
 **Target:** Increase social media following to **8,000+** and **500+ active testnet participants** by September 30, 2025.
