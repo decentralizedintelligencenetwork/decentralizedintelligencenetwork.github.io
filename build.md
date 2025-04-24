@@ -1,5 +1,5 @@
 ---
-title: Buikd  
+title: Build  
 layout: page  
 description: Learn how to build on Doctelligence to create decentralized AI solutions and integrate federated learning with EVM-compatible blockchain ecosystems.  
 intro_image_hide_on_mobile: true  
