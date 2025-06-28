@@ -1,13 +1,13 @@
 ---
 title: Research  
 layout: page  
-description: Explore how decentralized AI and data ecosystems are transforming industries through Doctelligence’s research.  
+description: Explore how decentralized AI and data ecosystems are transforming industries through DIN’s research.  
 intro_image_hide_on_mobile: true  
 ---
 
 # Research & Collaboration
 
-Doctelligence was born from rigorous academic research, starting in the **Oxford Computer Science Department** and later presented at **UC Berkeley’s Research in Decentralized Intelligence (RDI)**. We’re committed to advancing decentralized AI, federated learning, and data sovereignty through deep, interdisciplinary research. Our vision is to work collaboratively with academic communities, research institutions, and industry leaders to tackle the complex challenges of privacy, data sharing, and scalable AI systems.
+DIN was born from rigorous academic research, starting in the **Oxford Computer Science Department** and later presented at **UC Berkeley’s Research in Decentralized Intelligence (RDI)**. We’re committed to advancing decentralized AI, federated learning, and data sovereignty through deep, interdisciplinary research. Our vision is to work collaboratively with academic communities, research institutions, and industry leaders to tackle the complex challenges of privacy, data sharing, and scalable AI systems.
 
 ---
 
@@ -25,7 +25,7 @@ Our journey began in the **Oxford Computer Science Department**, where we explor
 
 ## Open to Collaboration
 
-At Doctelligence, we believe that collaboration is key to solving the pressing challenges in AI and decentralized systems. We welcome partnerships and collaboration with **academic researchers**, **universities**, and **industry experts**. Whether you are interested in joint research initiatives, conducting experiments, or contributing to our open-source projects, we invite you to join us in advancing the field of decentralized AI.
+At DIN, we believe that collaboration is key to solving the pressing challenges in AI and decentralized systems. We welcome partnerships and collaboration with **academic researchers**, **universities**, and **industry experts**. Whether you are interested in joint research initiatives, conducting experiments, or contributing to our open-source projects, we invite you to join us in advancing the field of decentralized AI.
 
 ### Collaboration Opportunities:
 - **Joint Research Projects**: Partner with us to explore new ideas in federated learning, decentralized systems, and privacy preservation.
@@ -52,9 +52,9 @@ Our research has already had a significant impact on both the academic and indus
 We invite researchers, academic institutions, and students to join us in pushing the boundaries of what is possible in decentralized AI. If you're interested in collaborating on research projects, presenting findings, or contributing to ongoing developments, we’d love to hear from you.
 
 ### How to Get Involved:
-- 📚 **Explore Our White Papers**: Start by reading our [White Paper v1](https://doctelligence.github.io/whitepaper) for an in-depth look at our research and vision.
-- 📝 **Contact Us for Collaboration**: Reach out to us at [research@doctelligence.org](mailto:research@doctelligence.org) to discuss potential research opportunities and collaborations.
-- 💻 **Contribute to Our Open-Source Project**: Check out our [GitHub repository](https://github.com/Doctelligence) for ongoing research-driven development.
+- 📚 **Explore Our White Papers**: Start by reading our [White Paper v1](https://DIN.github.io/whitepaper) for an in-depth look at our research and vision.
+- 📝 **Contact Us for Collaboration**: Reach out to us at [research@DIN.org](mailto:research@DIN.org) to discuss potential research opportunities and collaborations.
+- 💻 **Contribute to Our Open-Source Project**: Check out our [GitHub repository](https://github.com/DIN) for ongoing research-driven development.
 
 We look forward to building a strong academic network focused on decentralized intelligence, privacy-preserving AI, and the future of data sovereignty.
 
@@ -71,7 +71,7 @@ We regularly participate in academic conferences, workshops, and industry events
 
 ## Our Research Team
 
-Doctelligence's research team is composed of experts in **AI**, **blockchain**, **cryptography**, and **distributed systems**. Our team continues to work closely with academic leaders from top universities, ensuring that our projects remain on the cutting edge of technological advancement.
+DIN's research team is composed of experts in **AI**, **blockchain**, **cryptography**, and **distributed systems**. Our team continues to work closely with academic leaders from top universities, ensuring that our projects remain on the cutting edge of technological advancement.
 
 ### Research Partners:
 - Oxford University
@@ -82,11 +82,11 @@ Doctelligence's research team is composed of experts in **AI**, **blockchain**, 
 
 ## Let’s Shape the Future Together!
 
-Whether you’re an academic, researcher, or institution looking to collaborate, Doctelligence is committed to advancing the state of decentralized AI and privacy-preserving technologies. Let’s work together to push the boundaries of what’s possible.
+Whether you’re an academic, researcher, or institution looking to collaborate, DIN is committed to advancing the state of decentralized AI and privacy-preserving technologies. Let’s work together to push the boundaries of what’s possible.
 
 ### Get In Touch:
-- 📧 [Email Us for Collaboration](mailto:research@doctelligence.org)
-- 💻 [Explore Our Research on GitHub](https://github.com/Doctelligence)
-- 📚 [Read Our White Paper](https://doctelligence.github.io/whitepaper)
+- 📧 [Email Us for Collaboration](mailto:research@DIN.org)
+- 💻 [Explore Our Research on GitHub](https://github.com/DIN)
+- 📚 [Read Our White Paper](https://DIN.github.io/whitepaper)
 
 Join us in building a decentralized, privacy-preserving future for AI.
