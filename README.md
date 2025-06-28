@@ -1,10 +1,10 @@
-# Doctelligence Open Source Website
+# DIN Open Source Website
 
-Welcome to the **Doctelligence** project! This repository hosts the official website for **Doctelligence**, an innovative peer-to-peer decentralized infrastructure for AI and data marketplaces. This website provides detailed information on how the protocol works, its features, and the roadmap for its development.
+Welcome to the **DIN** project! This repository hosts the official website for **DIN Foundation**, an innovative peer-to-peer decentralized infrastructure for AI and data marketplaces. This website provides detailed information on how the protocol works, its features, and the roadmap for its development.
 
 ## Table of Contents
 
-- [About Doctelligence](#about-doctelligence)
+- [About DIN](#about-DIN)
 - [Features](#features)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -13,7 +13,7 @@ Welcome to the **Doctelligence** project! This repository hosts the official web
 
 ## Contributing
 
-We welcome contributions to the Doctelligence website repository! Whether it's improving documentation, fixing bugs, or helping with website design, we value your input.
+We welcome contributions to the DIN Foundation website repository! Whether it's improving documentation, fixing bugs, or helping with website design, we value your input.
 
 ### How to Contribute
 
@@ -40,7 +40,7 @@ If you want to run this website locally, you can follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Doctelligence/website.git
+   git clone https://github.com/decentralizedintelligencenetwork/website.git
 
 2. Navigate to the project directory:
 
