@@ -7,4 +7,4 @@ show_call_box: true
 ---
 
 # DIN Foundation
-Powering Open-AI Agents and Data Marketplaces for a New Era of Data Sovereignty
+Powering Open AI and Data Marketplaces for a New Era of Data Sovereignty
