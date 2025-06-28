@@ -7,4 +7,4 @@ show_call_box: true
 ---
 
 # DIN Foundation
-Pioneering the Future of Decentralized AI Networks
+Powering Open-AI Agents and Data Marketplaces for a New Era of Data Sovereignty
