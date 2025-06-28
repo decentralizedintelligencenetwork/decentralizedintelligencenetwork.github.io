@@ -5,11 +5,11 @@ description: "This page provides a high-level roadmap, outlining key milestones 
 intro_image_hide_on_mobile: true  
 ---
 
-# Doctelligence Roadmap 🚀
+# DIN Roadmap 🚀
 
-This living roadmap outlines the strategic phases of Doctelligence, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency. 
+This living roadmap outlines the strategic phases of DIN, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency. 
 
-## 🗓️ Doctelligence Timeline (Q1 2024 – Q2 2026)
+## 🗓️ DIN Timeline (Q1 2024 – Q2 2026)
 **Q1 2024** [█████████] Oxford CS Department: Blockchain-FL Protocol Research  
 **Q2 2024** [█████████] Prototype & Simulation Experiments Released  
 **Q3 2024** [█████████] Whitepaper Release & Publications Published  
@@ -28,12 +28,12 @@ This living roadmap outlines the strategic phases of Doctelligence, focusing on 
 ## 🏗️ Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
 
 ### 📄 Whitepaper Release (Completed Aug 2024)
-- Refined and expanded the Whitepaper to reflect the latest advancements in the Doctelligence protocol (✓)
+- Refined and expanded the Whitepaper to reflect the latest advancements in the DIN protocol (✓)
 - Published technical architecture documentation and governance framework (✓)
 
 ### 🧪 Prototype & Simulation (Completed Mar 2024)
-- Live Prototype Launched with core rewards logic [Prototype on GitHub](https://github.com/Doctelligence/DIN-Prototype) (✓)
-- Performance simulations at Oxford ARC meet 99% of decentralized operations benchmarks [Simulation Code](https://github.com/Doctelligence/DIN-Protocol-Simulator) (✓) 
+- Live Prototype Launched with core rewards logic [Prototype on GitHub](https://github.com/DIN/DIN-Prototype) (✓)
+- Performance simulations at Oxford ARC meet 99% of decentralized operations benchmarks [Simulation Code](https://github.com/DIN/DIN-Protocol-Simulator) (✓) 
 
 ### 📅 Strategic Academic & Industry Engagement (2024–2025)
 
